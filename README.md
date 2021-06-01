@@ -17,7 +17,7 @@ Este repositório tem os códigos e dataset utilizados no **workshop de introdu�
 3. [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
 4. [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
 
-*P.S: No workshop foi utilizado a ferramenta online Google Colab, mas caso queira você pode utilizar outras ferramentas para rodar o código, como por exemplo o [Anaconda](https://docs.anaconda.com/anaconda/install/)
+*P.S: No workshop foi utilizado a ferramenta online Google Colab, mas caso queira você pode utilizar outras ferramentas para rodar o código, como por exemplo o [Anaconda](https://docs.anaconda.com/anaconda/install/)*
 
 **Para acessar o tutorial que criamos para instalar essas ferramentas, [clique aqui.](https://docs.google.com/presentation/d/1a-daFACGDqUo9pcitdguZpBEmiD4KzVdswhK7H56KNs/edit?usp=sharing)**
 
