@@ -1,6 +1,13 @@
 # Workshop de introdução a análise de dados para :woman: :curly_haired_woman: :red_haired_woman: :woman_with_headscarf:
 
-Este repositório tem os códigos e dataset utilizados no workshop de introdução a análise de dados, fornecido em parceria com o time técnico da #IBM TLC-BR. Neste repositório você encontrará todos os materias que serão utilizados durante as aulas. :woman_technologist: :technologist: 
+<img src="banner.jpeg" width=800px>
+
+Este repositório tem os códigos e dataset utilizados no **workshop de introdução a análise de dados**, fornecido em parceria com o time técnico da **#IBM TLC-BR**. Neste repositório você encontrará todos os materias que serão utilizados durante as aulas. :woman_technologist: :technologist: 
+
+<a id="sumario"></a>
+# :books: Sumário
+1. [Requisitos para usar os códigos](#requisitos)
+2. [ Tutorial Google Colab](#google-colab)
 
 <a name="requisitos"></a>
 ## :computer: 1. Requisitos para usar os códigos
