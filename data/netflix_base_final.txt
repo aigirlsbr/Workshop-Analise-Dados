@@ -1,0 +1,1035 @@
+Titulo;Genero;Linguagens;Categoria;Disponibilidade_Geografica;Duracao;IMDb_Score;Rotten_Tomatoes_Score;Metacritic_Score;Premios_Recebidos;Premios_Indicados;Receita_Bilheteria;Data_Lancamento_Netflix;Total_Score
+Lets Fight Ghost;Crime;Swedish, Spanish;Series;1;< 30 minutes;7.9;9.8;8.2;3.609665427509294;6.350078492935636;1;2021-03-04;8.633333333333335
+HOW TO BUILD A GIRL;Comedy;English;Movie;1;1-2 hour;5.8;7.9;6.9;1.0;0.0;1;2021-03-04;6.866666666666667
+The Invisible;Crime;English;Movie;15;1-2 hour;6.2;2.0;3.6;0.0;1.0;1;2021-03-03;3.9333333333333336
+Joker;Crime;English;Movie;12;1-2 hour;8.4;6.8;5.9;3.609665427509294;6.350078492935636;1;2021-03-03;7.033333333333334
+I;Action;English, Sanskrit;Movie;15;1-2 hour;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2021-03-03;5.6000000000000005
+Harrys Daughters;Adventure;English;Movie;17;1-2 hour;8.1;9.6;8.5;3.609665427509294;6.350078492935636;1;2021-03-03;8.733333333333334
+The Closet;Comedy;French;Movie;1;1-2 hour;7.0;8.5;7.2;1.0;1.0;1;2021-03-01;7.566666666666666
+Trial by Fire;Biography;English;Movie;1;> 2 hrs;6.9;6.1;5.1;0.0;0.0;1;2021-03-01;6.033333333333334
+Framing John DeLorean;Documentary;English;Movie;1;1-2 hour;6.5;9.0;6.7;0.0;0.0;1;2021-03-01;7.3999999999999995
+Alice;Comedy;English, Cantonese;Series;26;< 30 minutes;6.6;7.5;6.7;1.0;7.0;1;2021-03-01;6.933333333333334
+Ordinary People;Drama;English;Movie;1;1-2 hour;7.7;8.9;8.6;3.609665427509294;14.0;1;2021-02-28;8.4
+Paths of the Soul;Drama;Tibetan;Movie;1;1-2 hour;7.5;9.4;9.0;5.0;7.0;1;2021-02-28;8.633333333333333
+Rebel in the Rye;Biography;English;Movie;1;1-2 hour;6.7;3.0;4.6;0.0;0.0;1;2021-02-28;4.766666666666667
+Stray;Action;English;Movie;1;1-2 hour;4.8;5.6;5.4;0.0;0.0;NAO_DEFINIDO;2021-02-28;5.266666666666667
+Stand by Me;Adventure;English;Movie;1;1-2 hour;8.1;9.1;7.5;5.0;11.0;1;2021-02-28;8.233333333333333
+Wonderstruck;Adventure;English, Spanish;Movie;1;1-2 hour;6.2;6.8;7.1;1.0;6.350078492935636;1;2021-02-28;6.7
+Intimate Strangers;Drama;French;Movie;1;1-2 hour;7.0;8.6;7.1;0.0;3.0;1;2021-02-28;7.566666666666666
+The Girl on the Train;Crime;English, Spanish;Movie;36;> 2 hrs;6.5;4.4;4.8;4.0;12.0;1;2021-02-27;5.233333333333333
+Ride Your Wave;Animation;Japanese;Movie;1;1-2 hour;6.8;9.3;6.3;2.0;3.0;1;2021-02-26;7.466666666666666
+Red;Action;English, Russian;Movie;17;> 2 hrs;7.0;7.2;6.0;4.0;19.0;1;2021-02-23;6.733333333333333
+Burden;Drama;English;Movie;1;1-2 hour;6.6;9.7;5.7;2.0;1.0;1;2021-02-19;7.333333333333333
+Love;Drama;English, French;Movie;17;1-2 hour;6.1;4.0;5.1;2.0;1.0;1;2021-02-19;5.066666666666666
+The Shadow;Action;English;Movie;1;1-2 hour;6.1;3.5;5.0;0.0;4.0;1;2021-02-17;4.866666666666666
+Aftermath;Drama;English, Thai;Movie;17;1-2 hour;5.7;4.2;4.4;0.0;0.0;NAO_DEFINIDO;2021-02-17;4.766666666666667
+Repo Man;Action;English, Spanish;Movie;6;1-2 hour;6.9;9.8;8.2;2.0;3.0;1;2021-02-16;8.299999999999999
+For Love of the Game;Drama;English;Movie;9;> 2 hrs;6.6;4.6;4.3;0.0;7.0;1;2021-02-16;5.166666666666666
+The Crew;Comedy;English, Spanish;Series;36;< 30 minutes;5.7;2.0;3.7;1.0;0.0;1;2021-02-16;3.8000000000000003
+The Replacement Killers;Action;English, Cantonese;Movie;1;1-2 hour;6.2;3.6;4.2;0.0;1.0;1;2021-02-15;4.666666666666667
+Then Came You;Adventure;;Movie;1;1-2 hour;7.0;5.9;4.4;0.0;0.0;NAO_DEFINIDO;2021-02-15;5.766666666666667
+The Flower of Evil;Drama;French;Movie;1;1-2 hour;6.5;6.4;6.7;0.0;2.0;1;2021-02-15;6.533333333333334
+Madame Bovary;Drama;English, French, Latin, German;Movie;1;> 2 hrs;5.7;4.3;5.2;0.0;2.0;1;2021-02-15;5.066666666666666
+Lassie Come Home;Adventure;English;Movie;1;1-2 hour;7.1;9.4;7.8;3.0;2.0;NAO_DEFINIDO;2021-02-11;8.1
+Mr. & Mrs. Incredible;Action;English, Spanish;Movie;2;1-2 hour;6.5;6.0;5.5;9.0;18.0;1;2021-02-08;6.0
+The Assault;Action;French, Arabic;Movie;17;1-2 hour;6.1;5.3;5.5;0.0;0.0;NAO_DEFINIDO;2021-02-04;5.633333333333333
+Step;Documentary;English;Movie;1;1-2 hour;6.8;9.6;8.1;9.0;6.350078492935636;1;2021-02-02;8.166666666666666
+Breaking News;Action;Cantonese, Mandarin, English;Movie;1;> 2 hrs;6.7;7.9;6.3;5.0;11.0;NAO_DEFINIDO;2021-02-02;6.966666666666666
+The Great Race;Action;English;Movie;1;> 2 hrs;7.3;7.4;7.1;3.0;14.0;NAO_DEFINIDO;2021-02-01;7.266666666666666
+Ill Always Know What You Did Last Summer;Action;English, Sanskrit;Movie;4;1-2 hour;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2021-02-01;5.6000000000000005
+The House That Jack Built;Crime;English, German, Italian;Movie;1;> 2 hrs;6.8;5.9;4.2;11.0;6.350078492935636;1;2021-01-29;5.633333333333333
+Trolls World Tour;Animation;English;Movie;1;1-2 hour;6.1;7.0;5.1;1.0;8.0;NAO_DEFINIDO;2021-01-29;6.066666666666666
+Sonic the Hedgehog;Action;English, French;Movie;2;1-2 hour;6.5;6.3;4.7;2.0;6.0;1;2021-01-28;5.833333333333333
+Touch Me Not;Drama;English, German;Movie;1;> 2 hrs;5.9;5.9;6.5;4.0;19.0;1;2021-01-24;6.1000000000000005
+The Hunt;Drama;Danish, English, Polish;Movie;1;1-2 hour;8.3;9.3;7.7;3.609665427509294;6.350078492935636;1;2021-01-24;8.433333333333334
+Dragon;Action;Mandarin;Movie;1;1-2 hour;7.1;8.5;6.2;3.609665427509294;6.350078492935636;1;2021-01-22;7.266666666666667
+Im Home;Action;English, Sanskrit;Series;4;< 30 minutes;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2021-01-22;5.6000000000000005
+Affliction;Drama;English;Movie;3;1-2 hour;7.0;8.8;7.9;8.0;19.0;1;2021-01-21;7.900000000000001
+So Im a Spider, So What?;Comedy;English, Russian;Series;1;< 30 minutes;6.4;5.1;5.4;0.0;0.0;1;2021-01-16;5.633333333333333
+Wish You;Drama;English, Vietnamese, Khmer;Movie;36;1-2 hour;5.9;7.2;6.0;10.0;6.350078492935636;1;2021-01-15;6.366666666666667
+Marlina the Murderer in Four Acts;Drama;Indonesian;Movie;1;1-2 hour;7.0;9.8;7.7;3.609665427509294;6.350078492935636;1;2021-01-14;8.166666666666666
+Lupin;Animation;Japanese, English, French;Series;36;< 30 minutes;7.7;9.5;7.1;1.0;1.0;1;2021-01-09;8.1
+Infamous;Biography;English;Movie;1;1-2 hour;7.0;7.4;6.8;3.0;2.0;1;2021-01-08;7.066666666666667
+The Chamber;Crime;English;Movie;1;1-2 hour;6.0;1.2;4.5;0.0;2.0;1;2021-01-02;3.9
+Measure for Measure;Drama;English;Movie;1;1-2 hour;5.5;3.5;4.6;0.0;5.0;NAO_DEFINIDO;2021-01-02;4.533333333333333
+Midnight Family;Documentary;Spanish;Movie;3;1-2 hour;7.4;9.7;8.1;3.609665427509294;6.350078492935636;1;2021-01-02;8.4
+My Girl;Comedy;English;Series;1;< 30 minutes;6.9;5.3;5.6;2.0;5.0;1;2021-01-01;5.933333333333334
+Waves;Drama;English;Movie;4;> 2 hrs;7.6;8.4;8.0;3.609665427509294;6.350078492935636;1;2021-01-01;8.0
+Captive State;Action;English;Movie;1;1-2 hour;6.0;4.4;5.4;0.0;2.0;1;2021-01-01;5.266666666666667
+The Elephant Man;Biography;English, French;Movie;2;> 2 hrs;8.1;9.2;7.8;10.0;6.350078492935636;1;2021-01-01;8.366666666666665
+Teen Spirit;Drama;English, Polish;Movie;5;1-2 hour;6.1;7.1;5.7;0.0;3.0;1;2021-01-01;6.3
+The Vigil;Horror;English, Yiddish, Hebrew;Movie;1;1-2 hour;5.5;9.2;6.6;0.0;1.0;NAO_DEFINIDO;2020-12-31;7.099999999999999
+Saint Frances;Comedy;English;Movie;1;1-2 hour;7.1;9.9;8.3;11.0;17.0;1;2020-12-31;8.433333333333334
+Proxima;Action;French, English, Russian, German;Movie;1;1-2 hour;6.4;8.3;7.1;4.0;6.0;NAO_DEFINIDO;2020-12-31;7.266666666666667
+HOPE GAP;Drama;English;Movie;1;1-2 hour;6.7;6.4;5.8;0.0;1.0;1;2020-12-31;6.3
+Under the Silver Lake;Crime;English;Movie;1;> 2 hrs;6.5;5.9;6.0;3.0;9.0;1;2020-12-30;6.133333333333333
+Lizzie;Biography;English;Movie;1;1-2 hour;5.8;6.6;5.9;0.0;1.0;1;2020-12-28;6.099999999999999
+Butterfly;Drama;Spanish, Gallegan, Latin;Movie;1;1-2 hour;7.6;9.6;6.9;6.0;19.0;1;2020-12-28;8.033333333333333
+High Life;Adventure;English;Movie;1;1-2 hour;5.8;8.2;7.7;5.0;15.0;1;2020-12-28;7.233333333333333
+Evils Wave;Drama;Swedish, Finnish;Series;1;< 30 minutes;7.8;6.8;6.1;9.0;10.0;1;2020-12-28;6.8999999999999995
+The Last Full Measure;Drama;English;Movie;3;1-2 hour;6.8;5.9;5.1;0.0;1.0;1;2020-12-27;5.933333333333333
+Just Mercy;Biography;English;Movie;2;> 2 hrs;7.6;8.5;6.8;10.0;15.0;1;2020-12-27;7.633333333333333
+Reprisal;Action;English;Movie;1;1-2 hour;4.3;0.8;1.9;0.0;0.0;NAO_DEFINIDO;2020-12-27;2.333333333333333
+The Last Tree;Drama;English;Movie;1;1-2 hour;6.5;9.8;6.7;3.0;11.0;1;2020-12-27;7.666666666666667
+Judy & Punch;Biography;English;Movie;1;1-2 hour;6.8;8.1;6.6;3.609665427509294;6.350078492935636;1;2020-12-27;7.166666666666667
+Grandmas Last Wishes;Comedy;English;Movie;35;1-2 hour;6.7;9.1;7.7;5.0;13.0;1;2020-12-26;7.833333333333333
+Astro Boy;Animation;English;Series;4;< 30 minutes;6.3;5.0;5.3;0.0;4.0;1;2020-12-25;5.533333333333334
+Hotel by the River;Drama;Korean;Movie;1;1-2 hour;6.7;9.5;7.9;6.0;12.0;1;2020-12-23;8.033333333333333
+Vivarium;Comedy;English;Movie;1;1-2 hour;5.8;7.2;6.4;3.0;5.0;NAO_DEFINIDO;2020-12-23;6.466666666666666
+Babyteeth;Comedy;English;Movie;2;1-2 hour;7.2;9.4;7.7;3.609665427509294;6.350078492935636;1;2020-12-23;8.1
+The Guys;Drama;English;Movie;3;1-2 hour;6.3;7.3;6.0;1.0;2.0;1;2020-12-17;6.533333333333334
+Grizzlies;Biography;Inuktitut, English;Movie;1;1-2 hour;7.5;8.5;6.9;7.0;9.0;1;2020-12-16;7.633333333333333
+Silent Night;Comedy;English;Movie;1;1-2 hour;5.2;6.4;5.3;0.0;0.0;1;2020-12-16;5.633333333333333
+Georgetown;Biography;English;Movie;3;1-2 hour;5.8;4.5;4.6;0.0;0.0;NAO_DEFINIDO;2020-12-15;4.966666666666666
+The Other;Drama;English;Movie;1;1-2 hour;6.9;8.3;6.5;1.0;0.0;1;2020-12-12;7.233333333333334
+What If;Comedy;English;Movie;1;1-2 hour;6.8;7.4;5.9;2.0;8.0;1;2020-12-12;6.7
+Wind;Action;English;Movie;1;1-2 hour;6.4;5.0;5.7;0.0;0.0;1;2020-12-12;5.7
+Living in Oblivion;Comedy;English;Movie;1;1-2 hour;7.5;8.8;8.1;7.0;8.0;1;2020-12-12;8.133333333333333
+Louis & Luca - The Big Cheese Race;Mystery;English;Movie;1;1-2 hour;6.3;3.8;4.1;2.0;5.0;NAO_DEFINIDO;2020-12-12;4.733333333333333
+Gilberts Grim Revenge;Documentary;English;Movie;1;1-2 hour;7.5;9.5;7.3;1.0;1.0;1;2020-12-12;8.1
+Deck the Halls;Comedy;English, German;Movie;1;1-2 hour;5.0;0.6;2.8;1.0;8.0;1;2020-12-12;2.8000000000000003
+I Can Only Imagine;Biography;English;Movie;3;1-2 hour;7.3;6.3;3.0;6.0;4.0;1;2020-12-12;5.533333333333334
+Mystery;Adventure;English;Series;2;< 30 minutes;7.0;7.1;5.1;3.0;8.0;1;2020-12-12;6.3999999999999995
+Me & You vs The World;Biography;English, French;Movie;2;1-2 hour;8.1;9.6;7.5;3.609665427509294;6.350078492935636;1;2020-12-12;8.4
+Blood Ties;Action;English, Italian, Spanish;Movie;2;1-2 hour;6.5;5.2;4.5;0.0;0.0;1;2020-12-12;5.3999999999999995
+The Way Back;Adventure;English, Russian, Polish, Tibetan, Mongolian;Movie;1;1-2 hour;7.3;7.4;6.6;4.0;5.0;1;2020-12-12;7.099999999999999
+The Whistleblower;Biography;English, Romanian, Russian, Serbian, Ukrainian;Movie;1;> 2 hrs;7.1;7.5;5.9;8.0;11.0;1;2020-12-12;6.833333333333333
+Promare;Animation;Japanese;Movie;1;1-2 hour;7.1;9.7;7.7;0.0;2.0;1;2020-12-11;8.166666666666666
+Its Me, Its Me;Horror;English, Hebrew;Movie;2;1-2 hour;7.3;8.6;6.9;8.0;6.350078492935636;1;2020-12-11;7.599999999999999
+Babel;Drama;English, Arabic, Spanish, Japanese, Berber languages, French, Russian, Japanese Sign Language;Series;1;< 30 minutes;7.4;6.9;6.9;3.609665427509294;6.350078492935636;1;2020-12-08;7.066666666666667
+The War of the Worlds;Action;English, Spanish;Series;3;< 30 minutes;7.1;8.3;7.8;5.0;2.0;NAO_DEFINIDO;2020-12-07;7.733333333333333
+Hover;Sci-Fi;English;Movie;2;1-2 hour;3.8;2.0;4.0;0.0;0.0;NAO_DEFINIDO;2020-12-06;3.266666666666667
+Halloween 4: The Return of Michael Myers;Horror;English;Movie;1;1-2 hour;5.9;2.9;3.4;1.0;2.0;1;2020-12-06;4.066666666666667
+Emma;Comedy;English;Movie;1;> 2 hrs;6.6;8.9;6.6;3.0;7.0;1;2020-12-06;7.366666666666667
+Abominable;Animation;English, Mandarin;Movie;1;1-2 hour;7.0;8.1;6.1;4.0;6.350078492935636;1;2020-12-06;7.066666666666666
+Detention;Comedy;English;Series;36;< 30 minutes;5.7;4.1;4.5;0.0;4.0;NAO_DEFINIDO;2020-12-06;4.766666666666667
+Hard to Kill;Action;English;Movie;4;1-2 hour;5.8;3.8;4.1;0.0;0.0;1;2020-12-02;4.566666666666666
+Being Frank;Comedy;English;Movie;1;1-2 hour;6.0;3.4;4.1;3.0;5.0;1;2020-12-02;4.5
+The Sunlit Night;Drama;English, Norwegian;Movie;2;1-2 hour;6.1;3.4;4.7;0.0;1.0;NAO_DEFINIDO;2020-12-01;4.733333333333333
+The Room;Drama;English;Movie;4;< 30 minutes;3.7;2.4;0.9;1.0;0.0;1;2020-12-01;2.3333333333333335
+Dora and the Lost City of Gold;Adventure;English, Spanish, Quechua;Movie;5;1-2 hour;6.1;8.5;6.3;4.0;2.0;1;2020-12-01;6.966666666666666
+The Rhythm Section;Action;English, French;Movie;2;1-2 hour;5.3;2.8;4.5;1.0;3.0;1;2020-12-01;4.2
+Godzilla & Mothra: Battle for Earth;Action;English, Japanese;Movie;1;1-2 hour;6.4;7.6;6.2;7.0;6.350078492935636;1;2020-12-01;6.733333333333334
+Godzilla;Action;English, Japanese;Movie;1;1-2 hour;6.4;7.6;6.2;7.0;6.350078492935636;1;2020-12-01;6.733333333333334
+Fiction.;Crime;English, Spanish, French;Movie;3;1-2 hour;8.9;9.2;9.4;3.609665427509294;6.350078492935636;1;2020-12-01;9.166666666666666
+The Guest;Action;English;Series;36;< 30 minutes;6.7;9.1;7.6;4.0;13.0;1;2020-12-01;7.8
+Rust Creek;Crime;English;Movie;1;1-2 hour;5.9;8.4;5.9;9.0;0.0;NAO_DEFINIDO;2020-12-01;6.733333333333334
+Respiro;Drama;Italian, Sicilian;Movie;1;< 30 minutes;7.0;7.6;6.5;3.609665427509294;11.0;1;2020-11-30;7.033333333333334
+The Embalmer;Drama;Italian;Movie;1;1-2 hour;7.0;8.1;7.1;3.609665427509294;6.350078492935636;1;2020-11-30;7.3999999999999995
+A Perfect Day;Comedy;English, Serbian, Spanish, French, Bosnian;Movie;1;1-2 hour;6.8;7.2;6.0;4.0;6.350078492935636;1;2020-11-30;6.666666666666667
+Distance;Drama;Japanese;Movie;3;1-2 hour;6.9;8.0;5.8;0.0;1.0;NAO_DEFINIDO;2020-11-29;6.8999999999999995
+The Sisters Brothers;Crime;English;Movie;8;< 30 minutes;7.0;8.7;7.8;11.0;6.350078492935636;1;2020-11-29;7.833333333333333
+All About the Benjamins;Action;English, French;Movie;1;1-2 hour;5.9;3.0;3.4;0.0;0.0;1;2020-11-29;4.1000000000000005
+The Man Who Killed Don Quixote;Adventure;English, Spanish;Movie;1;< 30 minutes;6.4;6.4;5.8;4.0;7.0;1;2020-11-28;6.2
+The Informer;Action;English, Polish, Spanish;Movie;1;1-2 hour;6.6;6.2;6.1;0.0;1.0;1;2020-11-28;6.3
+True History of the Kelly Gang;Biography;English, Latin;Movie;1;> 2 hrs;6.0;7.9;7.5;6.0;13.0;1;2020-11-28;7.133333333333333
+Widows;Crime;English, Spanish, Polish;Movie;1;> 2 hrs;6.9;9.1;8.4;3.609665427509294;6.350078492935636;1;2020-11-28;8.133333333333333
+The Wretched;Horror;English;Movie;2;1-2 hour;5.8;7.5;6.1;4.0;4.0;1;2020-11-28;6.466666666666666
+Buffaloed;Comedy;English;Movie;1;1-2 hour;6.2;7.9;6.1;0.0;0.0;1;2020-11-28;6.733333333333334
+Best of the Best;Action;English;Movie;1;1-2 hour;6.5;7.2;2.6;0.0;1.0;1;2020-11-28;5.433333333333334
+Im Standing on a Million Lives;Action;English, Sanskrit;Series;1;< 30 minutes;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2020-11-27;5.6000000000000005
+Motherless Brooklyn;Crime;English, French;Movie;3;> 2 hrs;6.8;6.3;6.0;2.0;15.0;1;2020-11-27;6.366666666666667
+Nightmare Cinema;Horror;English;Movie;1;1-2 hour;5.5;7.7;6.0;0.0;2.0;NAO_DEFINIDO;2020-11-27;6.3999999999999995
+Pandemic;Action;English;Movie;1;> 2 hrs;4.4;4.4;4.7;0.0;0.0;NAO_DEFINIDO;2020-11-27;4.500000000000001
+Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn);Action;English, Chinese;Movie;3;1-2 hour;6.1;7.8;6.0;5.0;6.350078492935636;1;2020-11-27;6.633333333333333
+Billionaire Boys Club;Biography;English;Movie;1;1-2 hour;5.6;0.7;3.0;1.0;0.0;1;2020-11-27;3.0999999999999996
+Arizona;Comedy;English;Movie;3;1-2 hour;5.8;4.3;4.1;0.0;1.0;NAO_DEFINIDO;2020-11-27;4.733333333333333
+American Animals;Biography;English, Dutch;Movie;1;1-2 hour;7.0;8.8;6.8;10.0;6.350078492935636;1;2020-11-27;7.533333333333334
+The Call;Crime;English;Movie;36;1-2 hour;6.7;4.4;5.1;1.0;11.0;1;2020-11-27;5.400000000000001
+Whose Streets?;Documentary;English;Movie;1;1-2 hour;5.4;9.8;7.9;2.0;18.0;1;2020-11-22;7.7
+Gemini Man;Action;English, French;Movie;5;1-2 hour;5.7;2.6;3.8;1.0;5.0;1;2020-11-20;4.033333333333333
+Crawl;Action;English;Movie;8;1-2 hour;6.1;8.4;6.0;0.0;4.0;1;2020-11-20;6.833333333333333
+Survivor;Action;English, Pushto, Mandarin;Series;1;< 30 minutes;5.6;0.8;2.8;0.0;0.0;NAO_DEFINIDO;2020-11-16;3.0666666666666664
+A Guy & A Girl;Comedy;English;Movie;1;1-2 hour;6.4;4.2;4.5;1.0;8.0;1;2020-11-13;5.033333333333334
+The Liberator;Biography;Spanish, English, French;Series;36;< 30 minutes;6.8;3.8;5.1;1.0;3.0;1;2020-11-12;5.233333333333333
+Axolotl Overkill;Drama;German, English, Spanish, French;Movie;2;1-2 hour;5.3;6.4;6.5;2.0;5.0;NAO_DEFINIDO;2020-11-11;6.066666666666667
+The Hero;Drama;English;Movie;1;1-2 hour;6.5;7.8;6.1;2.0;6.0;1;2020-11-11;6.8
+Girls Revenge;Drama;English;Movie;36;1-2 hour;8.1;8.7;7.9;3.609665427509294;6.350078492935636;1;2020-11-07;8.233333333333333
+Paranormal;Horror;English;Series;36;< 30 minutes;6.3;8.3;6.8;3.0;12.0;1;2020-11-05;7.133333333333333
+The War of the Roses;Comedy;English;Movie;1;1-2 hour;6.9;8.5;7.9;2.0;9.0;1;2020-11-05;7.766666666666667
+Harriet;Action;English;Movie;2;> 2 hrs;6.6;7.3;6.6;3.609665427509294;6.350078492935636;1;2020-11-05;6.833333333333333
+Dolittle;Adventure;English, French;Movie;1;1-2 hour;5.6;1.4;2.6;1.0;1.0;1;2020-11-05;3.1999999999999997
+Love & Anarchy;Drama;English, French;Series;36;< 30 minutes;6.1;4.0;5.1;2.0;1.0;1;2020-11-05;5.066666666666666
+The Mermaid;Comedy;Mandarin;Movie;1;1-2 hour;6.2;9.5;6.9;8.0;13.0;1;2020-11-04;7.533333333333334
+Night Shift;Comedy;English;Movie;1;1-2 hour;6.6;9.2;6.2;1.0;0.0;1;2020-11-04;7.333333333333333
+MOTHER;Crime;Korean;Movie;36;> 2 hrs;7.8;9.6;7.9;3.609665427509294;6.350078492935636;1;2020-11-04;8.433333333333332
+Evil;Drama;Swedish, Finnish;Series;1;< 30 minutes;7.8;6.8;6.1;9.0;10.0;1;2020-11-03;6.8999999999999995
+Raising Victor Vargas;Drama;English, Spanish;Movie;1;1-2 hour;7.2;9.6;8.3;4.0;14.0;1;2020-11-03;8.366666666666667
+Tortilla Soup;Comedy;English, Spanish;Movie;1;1-2 hour;6.7;7.4;5.8;2.0;7.0;1;2020-11-03;6.633333333333333
+Yes, God, Yes;Comedy;English;Movie;2;1-2 hour;6.1;9.3;7.1;2.0;1.0;NAO_DEFINIDO;2020-11-03;7.5
+I Am Woman;Biography;English;Movie;2;1-2 hour;6.6;6.8;5.4;1.0;11.0;NAO_DEFINIDO;2020-11-03;6.266666666666667
+The Hummingbird Project;Drama;Russian, English, Spanish, Hebrew, Italian;Movie;1;1-2 hour;6.2;5.7;5.8;2.0;5.0;1;2020-11-03;5.8999999999999995
+Amandla! A Revolution in Four Part Harmony;Documentary;English, Zulu;Movie;1;1-2 hour;7.4;8.3;7.8;11.0;7.0;1;2020-11-03;7.833333333333333
+Sleeper;Comedy;English, Yiddish;Movie;2;1-2 hour;7.2;10.0;7.7;2.0;2.0;1;2020-11-01;8.299999999999999
+The Mountain Between Us;Action;English;Movie;2;1-2 hour;6.4;3.8;4.8;2.0;1.0;1;2020-11-01;5.0
+Im Not Ready for Christmas;Action;English, Sanskrit;Movie;2;1-2 hour;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2020-11-01;5.6000000000000005
+Habermann;Drama;German, Czech, Latin;Movie;2;1-2 hour;7.1;3.3;4.6;5.0;7.0;NAO_DEFINIDO;2020-11-01;5.0
+1917;Drama;English, French, German;Movie;4;1-2 hour;8.3;8.9;7.8;3.609665427509294;6.350078492935636;1;2020-11-01;8.333333333333334
+The Queens Gambit;Biography;English, German, French;Series;36;< 30 minutes;7.3;9.6;9.1;3.609665427509294;6.350078492935636;1;2020-10-23;8.666666666666666
+Im losing it;Action;English, Sanskrit;Movie;1;1-2 hour;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2020-10-22;5.6000000000000005
+Rebecca;Drama;English, French;Movie;36;> 2 hrs;8.1;10.0;8.6;7.0;10.0;NAO_DEFINIDO;2020-10-21;8.9
+Bending the Arc;Documentary;English;Movie;36;1-2 hour;7.7;10.0;8.0;1.0;1.0;1;2020-10-21;8.566666666666666
+Brahms: The Boy II;Drama;English;Movie;4;1-2 hour;4.6;1.0;2.9;0.0;0.0;1;2020-10-16;2.8333333333333335
+Disconnect;Drama;English;Movie;35;1-2 hour;7.5;7.0;6.4;0.0;0.0;1;2020-10-15;6.966666666666666
+The Crew;Comedy;English, Spanish;Movie;1;> 2 hrs;5.7;2.0;3.7;1.0;0.0;1;2020-10-07;3.8000000000000003
+The Rest Of Us;Drama;English, French;Movie;1;1-2 hour;6.2;9.1;7.4;0.0;3.0;NAO_DEFINIDO;2020-10-07;7.566666666666667
+Honey Boy;Drama;English, Spanish;Movie;1;1-2 hour;7.3;9.4;7.3;10.0;6.350078492935636;1;2020-10-06;8.0
+Black Christmas;Horror;English;Movie;1;1-2 hour;7.2;7.1;6.5;2.0;2.0;NAO_DEFINIDO;2020-10-06;6.933333333333333
+Spotlight;Biography;English;Series;2;< 30 minutes;8.1;9.7;9.3;3.609665427509294;6.350078492935636;1;2020-10-03;9.033333333333333
+Judy;Biography;English;Movie;1;1-2 hour;6.8;8.1;6.6;3.609665427509294;6.350078492935636;1;2020-10-03;7.166666666666667
+A Madea Family Funeral;Comedy;English;Movie;3;1-2 hour;4.5;1.2;3.9;0.0;7.0;1;2020-10-02;3.1999999999999997
+Shivers;Horror;English, French;Movie;2;1-2 hour;6.4;8.5;5.8;1.0;0.0;NAO_DEFINIDO;2020-10-01;6.8999999999999995
+Aliens;Action;English;Series;1;< 30 minutes;8.3;9.7;8.4;3.609665427509294;6.350078492935636;1;2020-10-01;8.8
+Im Leaving Now;Action;English, Sanskrit;Movie;34;1-2 hour;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2020-09-30;5.6000000000000005
+Time Out;Drama;French;Movie;35;1-2 hour;7.4;9.7;8.8;2.0;8.0;1;2020-09-25;8.633333333333335
+Rhino Season;Drama;Kurdish, Persian, Turkish, English;Movie;1;1-2 hour;6.4;6.6;6.6;6.0;6.0;NAO_DEFINIDO;2020-09-24;6.533333333333334
+Rojo;Drama;Spanish;Movie;3;1-2 hour;6.4;9.6;7.6;3.609665427509294;6.350078492935636;1;2020-09-21;7.866666666666667
+One Day;Drama;English;Movie;1;1-2 hour;7.0;3.6;4.8;1.0;2.0;1;2020-09-20;5.133333333333334
+High & Low The Worst;Action;English;Movie;10;> 2 hrs;7.6;9.7;8.8;3.609665427509294;6.350078492935636;1;2020-09-20;8.7
+High & Low The Movie 3 / Final Mission;Action;English;Movie;10;1-2 hour;7.6;9.7;8.8;3.609665427509294;6.350078492935636;1;2020-09-20;8.7
+High & Low The Movie 2 / End of Sky;Action;English;Movie;10;> 2 hrs;7.6;9.7;8.8;3.609665427509294;6.350078492935636;1;2020-09-20;8.7
+High & Low The Red Rain;Action;English;Movie;11;1-2 hour;7.6;9.7;8.8;3.609665427509294;6.350078492935636;1;2020-09-20;8.7
+High & Low The Movie;Action;English;Movie;11;> 2 hrs;7.6;9.7;8.8;3.609665427509294;6.350078492935636;1;2020-09-20;8.7
+The Last Word;Comedy;English;Series;36;< 30 minutes;6.6;4.0;4.0;0.0;0.0;1;2020-09-20;4.866666666666666
+Dragons Dogma;Action;Mandarin;Series;36;< 30 minutes;7.1;8.5;6.2;3.609665427509294;6.350078492935636;1;2020-09-20;7.266666666666667
+Whipped;Comedy;English, Italian;Movie;36;1-2 hour;4.6;1.3;1.0;0.0;1.0;1;2020-09-20;2.3
+Battle of the Sexes;Biography;English;Movie;2;> 2 hrs;6.7;8.5;7.3;3.0;6.350078492935636;1;2020-09-16;7.5
+Patti Cake$;Drama;English;Movie;2;1-2 hour;6.8;8.5;6.7;9.0;15.0;1;2020-09-16;7.333333333333333
+The Lighthouse;Drama;English;Movie;1;1-2 hour;7.5;9.0;8.3;3.609665427509294;6.350078492935636;1;2020-09-14;8.266666666666667
+Last Christmas;Comedy;English, Serbo-Croatian, Mandarin, French;Movie;1;1-2 hour;6.5;4.7;5.0;1.0;0.0;1;2020-09-14;5.3999999999999995
+Wild Rose;Comedy;English;Movie;3;1-2 hour;7.2;9.2;8.0;3.609665427509294;6.350078492935636;1;2020-09-13;8.133333333333333
+The Duchess;Biography;English;Series;36;< 30 minutes;6.9;6.2;6.2;8.0;6.350078492935636;1;2020-09-11;6.433333333333334
+Whos Afraid of the Wolf;Action;English, German;Movie;2;1-2 hour;6.6;5.2;5.9;3.609665427509294;6.350078492935636;1;2020-09-10;5.8999999999999995
+Cargo;Drama;English, Aboriginal;Movie;35;1-2 hour;6.3;6.7;6.5;1.0;17.0;NAO_DEFINIDO;2020-09-08;6.5
+Lingua Franca;Drama;English, Tagalog, Russian;Movie;2;1-2 hour;6.3;8.6;6.1;6.0;19.0;NAO_DEFINIDO;2020-09-05;7.0
+Quantum of Solace;Action;English, Spanish, Italian, French, Swiss German, German;Movie;1;1-2 hour;6.6;6.4;5.8;4.0;6.350078492935636;1;2020-09-05;6.266666666666666
+Strange but True;Thriller;English;Movie;2;1-2 hour;5.8;5.6;5.5;0.0;0.0;NAO_DEFINIDO;2020-09-05;5.633333333333333
+The Young Messiah;Drama;English;Movie;1;1-2 hour;5.6;4.9;3.3;3.0;0.0;1;2020-09-05;4.6
+Freak Show;Comedy;English;Movie;1;1-2 hour;6.6;5.3;5.4;0.0;4.0;1;2020-09-05;5.766666666666667
+Afterschool;Drama;English;Movie;1;1-2 hour;6.1;8.0;6.6;1.0;10.0;1;2020-09-05;6.8999999999999995
+Matt & Mou;Documentary;English;Movie;2;1-2 hour;7.6;10.0;7.5;8.0;2.0;NAO_DEFINIDO;2020-09-05;8.366666666666667
+Sleepless;Action;English;Movie;3;1-2 hour;5.6;2.5;3.4;0.0;1.0;1;2020-09-05;3.8333333333333335
+Somewhere In Time;Drama;English;Movie;2;1-2 hour;7.2;6.1;2.9;7.0;4.0;1;2020-09-05;5.3999999999999995
+We are;Drama;English;Movie;1;> 2 hrs;7.1;4.8;5.3;0.0;1.0;1;2020-09-05;5.733333333333333
+Still Life;Drama;English;Movie;2;1-2 hour;7.4;6.4;4.5;3.609665427509294;5.0;1;2020-09-05;6.1000000000000005
+The Tree;Drama;English, French;Movie;2;1-2 hour;6.6;7.2;5.8;1.0;16.0;1;2020-09-05;6.533333333333332
+Outbreak;Action;English, Korean, French;Series;1;< 30 minutes;6.6;5.9;6.4;5.0;5.0;1;2020-09-05;6.3
+The Collector;Action;English;Series;4;< 30 minutes;6.4;2.9;2.9;0.0;0.0;1;2020-09-05;4.066666666666667
+The Good Liar;Crime;English, German, Russian, French, Spanish;Movie;3;1-2 hour;6.6;6.3;5.5;0.0;4.0;1;2020-09-04;6.133333333333333
+Anastasia;Animation;English, Russian, French;Movie;14;1-2 hour;7.2;8.6;6.1;10.0;6.350078492935636;1;2020-09-04;7.3
+Im Thinking of Ending Things;Action;English, Sanskrit;Movie;36;> 2 hrs;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2020-09-04;5.6000000000000005
+Parasite;Comedy;Korean, English;Movie;5;> 2 hrs;8.6;9.8;9.6;3.609665427509294;6.350078492935636;1;2020-09-03;9.333333333333334
+The Current War;Biography;English, Spanish;Movie;3;1-2 hour;6.5;3.1;5.5;0.0;0.0;1;2020-09-03;5.033333333333333
+Whos Next?;Action;English, German;Movie;2;1-2 hour;6.6;5.2;5.9;3.609665427509294;6.350078492935636;1;2020-09-03;5.8999999999999995
+Chefs Table: BBQ;Adventure;English, Spanish;Series;36;< 30 minutes;7.3;8.7;6.8;2.0;4.0;1;2020-09-02;7.599999999999999
+Hustlers;Comedy;English, Russian;Movie;5;1-2 hour;6.3;8.7;7.9;3.609665427509294;6.350078492935636;1;2020-09-02;7.633333333333333
+Bullitt;Action;English;Movie;5;1-2 hour;7.4;9.7;8.1;7.0;9.0;1;2020-09-01;8.4
+The New World;Biography;English, Algonquin, Inuktitut;Movie;1;> 2 hrs;6.7;6.2;6.9;6.0;6.350078492935636;1;2020-08-31;6.6000000000000005
+Dudley Do-Right;Comedy;English;Movie;1;1-2 hour;3.9;1.6;4.4;0.0;1.0;1;2020-08-31;3.3000000000000003
+Photograph;Drama;Hindi, Gujarati, English;Movie;1;1-2 hour;6.8;7.9;6.5;0.0;4.0;1;2020-08-26;7.066666666666667
+Black Rose;Action;English, Russian;Movie;8;> 2 hrs;2.5;2.2;0.5;0.0;0.0;NAO_DEFINIDO;2020-08-23;1.7333333333333334
+Official Secrets;Biography;English, Mandarin;Movie;1;1-2 hour;7.3;8.2;6.3;5.0;15.0;1;2020-08-22;7.266666666666666
+Class of 83;Action;English;Movie;36;1-2 hour;6.6;7.5;4.9;0.0;2.0;NAO_DEFINIDO;2020-08-21;6.333333333333333
+Neighbors;Comedy;English;Movie;1;1-2 hour;6.3;7.3;6.8;8.0;11.0;1;2020-08-20;6.8
+Scarecrow;Drama;English;Movie;34;> 2 hrs;7.3;7.5;7.2;4.0;0.0;1;2020-08-20;7.333333333333333
+Vice;Biography;English, Arabic;Movie;3;> 2 hrs;7.2;6.5;6.1;3.609665427509294;6.350078492935636;1;2020-08-19;6.6000000000000005
+The Divine Fury;Action;Korean, Latin;Movie;1;> 2 hrs;6.2;4.4;3.3;1.0;3.0;1;2020-08-19;4.633333333333334
+Nigerian Prince;Crime;English, Ibo;Movie;33;1-2 hour;5.6;10.0;6.1;0.0;0.0;NAO_DEFINIDO;2020-08-15;7.233333333333333
+Fearless;Action;Mandarin, Japanese, English;Movie;36;1-2 hour;7.6;7.3;7.0;6.0;13.0;1;2020-08-14;7.3
+My Friend A;Biography;English;Movie;1;> 2 hrs;6.2;8.6;6.8;1.0;3.0;1;2020-08-08;7.2
+Joker;Crime;English;Movie;2;> 2 hrs;8.4;6.8;5.9;3.609665427509294;6.350078492935636;1;2020-08-08;7.033333333333334
+Doctor Sleep;Drama;English;Movie;3;> 2 hrs;7.3;7.8;5.9;7.0;6.350078492935636;1;2020-08-06;7.0
+The Last Shot;Comedy;English;Movie;1;1-2 hour;5.6;6.2;4.7;0.0;0.0;1;2020-08-06;5.5
+Worlds Most Wanted;Action;English, Spanish, Hebrew, Arabic;Series;36;< 30 minutes;7.0;6.6;6.3;3.0;6.350078492935636;1;2020-08-05;6.633333333333333
+Sin City;Crime;English;Movie;35;1-2 hour;8.0;7.7;7.4;3.609665427509294;6.350078492935636;1;2020-08-05;7.7
+The Peanut Butter Falcon;Adventure;English;Movie;1;1-2 hour;7.6;9.5;7.0;3.609665427509294;16.0;1;2020-08-03;8.033333333333333
+Can You Keep a Secret?;Comedy;English;Movie;1;1-2 hour;5.3;2.9;3.5;0.0;0.0;NAO_DEFINIDO;2020-08-03;3.9000000000000004
+Almost Love;Comedy;English;Movie;2;1-2 hour;5.6;6.7;4.2;7.0;1.0;NAO_DEFINIDO;2020-08-03;5.5
+15 Minutes;Action;English, Czech, Russian, Greek, Afrikaans;Movie;1;> 2 hrs;6.1;3.2;3.4;0.0;1.0;1;2020-08-03;4.233333333333333
+Love and Honor;Drama;English;Movie;1;> 2 hrs;5.7;1.3;2.8;0.0;0.0;1;2020-08-02;3.266666666666667
+Knives Out;Comedy;English, Spanish, Hindi;Movie;5;> 2 hrs;7.9;9.7;8.2;3.609665427509294;6.350078492935636;1;2020-08-02;8.6
+Be with Me;Drama;Cantonese, English, Hokkien, Mandarin;Movie;3;1-2 hour;7.0;9.0;6.7;3.609665427509294;7.0;1;2020-08-02;7.566666666666666
+My Spy;Action;English, French, Russian;Movie;2;1-2 hour;6.3;4.8;4.6;0.0;0.0;NAO_DEFINIDO;2020-08-02;5.233333333333333
+The Nightingale;Adventure;English, Irish, Aboriginal;Movie;1;> 2 hrs;7.3;8.6;7.7;3.609665427509294;6.350078492935636;1;2020-08-01;7.866666666666667
+Tchoupi;Comedy;English, German, Spanish;Movie;3;1-2 hour;4.6;5.7;6.4;0.0;4.0;1;2020-08-01;5.566666666666666
+21 Bridges;Action;English;Movie;5;1-2 hour;6.6;5.3;5.1;0.0;2.0;1;2020-08-01;5.666666666666667
+Instinct;Drama;English;Series;4;< 30 minutes;6.6;2.7;4.3;1.0;2.0;1;2020-08-01;4.533333333333332
+The Grudge;Horror;English, Japanese;Movie;8;1-2 hour;5.9;4.0;4.9;2.0;10.0;1;2020-08-01;4.933333333333334
+Bad Boys for Life;Action;English, Spanish;Movie;8;> 2 hrs;6.6;7.7;5.9;2.0;12.0;1;2020-08-01;6.733333333333333
+Barb Wire;Action;English, French, German;Movie;5;1-2 hour;3.3;2.7;4.0;1.0;7.0;1;2020-08-01;3.3333333333333335
+Tread;Documentary;English;Movie;2;1-2 hour;7.1;9.0;6.6;0.0;1.0;1;2020-08-01;7.566666666666666
+Oh Lucy!;Comedy;English, Japanese;Movie;1;1-2 hour;6.8;9.8;6.9;3.0;9.0;1;2020-07-29;7.833333333333333
+The Call;Crime;English;Movie;1;1-2 hour;6.7;4.4;5.1;1.0;11.0;1;2020-07-29;5.400000000000001
+Father;Comedy;Hindi;Movie;1;1-2 hour;7.2;5.0;3.0;3.609665427509294;14.0;1;2020-07-29;5.066666666666666
+Surfers Time;Action;English, Japanese, Chinese, Arabic;Movie;1;1-2 hour;5.6;3.7;4.5;3.0;17.0;1;2020-07-29;4.6000000000000005
+Stars;Drama;English;Movie;1;1-2 hour;7.7;8.1;6.9;3.609665427509294;15.0;1;2020-07-29;7.566666666666667
+Redemption;Action;English, Polish, Cantonese, Italian;Movie;35;1-2 hour;6.2;4.9;4.3;0.0;0.0;1;2020-07-29;5.133333333333334
+Its Her Day;Horror;English, Hebrew;Movie;33;1-2 hour;7.3;8.6;6.9;8.0;6.350078492935636;1;2020-07-29;7.599999999999999
+Meet the Parents;Comedy;English, Thai, Spanish, Hebrew, French;Series;1;< 30 minutes;7.0;8.4;7.3;7.0;15.0;1;2020-07-28;7.566666666666667
+Banana Split;Comedy;English, German;Movie;2;1-2 hour;6.2;8.9;6.3;3.0;4.0;NAO_DEFINIDO;2020-07-28;7.133333333333333
+Animal Crackers;Comedy;English;Movie;23;1-2 hour;7.5;9.6;7.7;0.0;2.0;1;2020-07-24;8.266666666666666
+Damsel;Comedy;English;Movie;14;1-2 hour;5.5;6.8;6.3;0.0;3.0;1;2020-07-23;6.2
+Honeymoon;Drama;English;Movie;2;1-2 hour;5.7;7.6;6.5;0.0;5.0;1;2020-07-22;6.599999999999999
+Ip Man 4: The Finale;Action;Cantonese, English, Mandarin;Movie;4;1-2 hour;7.0;8.4;6.2;3.609665427509294;10.0;1;2020-07-22;7.2
+Never Look Away;Biography;German, Russian;Movie;1;> 2 hrs;7.7;7.7;6.8;5.0;6.350078492935636;1;2020-07-20;7.3999999999999995
+Extreme Ops;Action;English, German, Japanese, Serbo-Croatian;Movie;2;1-2 hour;4.5;0.7;1.7;0.0;1.0;1;2020-07-19;2.3000000000000003
+Funan;Animation;French;Movie;1;1-2 hour;6.9;9.3;7.9;3.0;2.0;1;2020-07-18;8.033333333333333
+Bigger;Biography;English;Movie;1;1-2 hour;6.4;2.0;3.7;0.0;0.0;1;2020-07-18;4.033333333333334
+A Dogs Journey;Drama;Swedish;Movie;10;1-2 hour;7.5;10.0;8.2;3.609665427509294;5.0;1;2020-07-16;8.566666666666666
+Western Stars;Documentary;English;Movie;2;1-2 hour;7.5;9.4;8.0;1.0;2.0;1;2020-07-16;8.299999999999999
+The Beach Bum;Comedy;English, Spanish;Movie;1;1-2 hour;5.5;5.6;5.5;1.0;7.0;1;2020-07-16;5.533333333333334
+The Players;Comedy;French;Movie;35;1-2 hour;5.3;3.0;4.3;1.0;0.0;1;2020-07-15;4.2
+Id like to Borrow a Girlfriend;Action;English, Sanskrit;Series;1;< 30 minutes;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2020-07-15;5.6000000000000005
+Rage;Action;English;Movie;1;1-2 hour;5.0;1.2;2.8;0.0;1.0;NAO_DEFINIDO;2020-07-15;3.0
+Sylvia;Biography;English;Movie;35;1-2 hour;6.3;3.7;5.6;1.0;0.0;1;2020-07-15;5.199999999999999
+Pat & Mat in a Movie;Biography;English;Movie;1;1-2 hour;7.3;8.6;5.3;0.0;4.0;NAO_DEFINIDO;2020-07-13;7.066666666666666
+Luis and the Aliens;Animation;English, Spanish;Movie;2;1-2 hour;6.0;2.4;4.6;1.0;0.0;1;2020-07-13;4.333333333333333
+Color Out of Space;Horror;English;Movie;1;1-2 hour;6.2;8.6;7.0;5.0;10.0;1;2020-07-13;7.266666666666666
+About Time;Comedy;English;Series;10;< 30 minutes;7.8;6.9;5.5;3.0;9.0;1;2020-07-12;6.733333333333334
+The Outrage;Action;Japanese, English;Movie;1;1-2 hour;6.8;8.0;6.7;0.0;1.0;1;2020-07-12;7.166666666666667
+Heartbeats;Drama;French, English;Movie;1;> 2 hrs;7.1;7.3;7.0;6.0;15.0;1;2020-07-12;7.133333333333333
+Grace;Drama;English;Movie;1;1-2 hour;5.1;7.2;5.2;2.0;5.0;1;2020-07-12;5.833333333333333
+I See You;Crime;English;Movie;2;1-2 hour;6.8;7.9;6.5;1.0;1.0;NAO_DEFINIDO;2020-07-11;7.066666666666667
+The Maid;Comedy;Spanish;Movie;6;1-2 hour;7.3;9.3;8.2;3.609665427509294;6.350078492935636;1;2020-07-10;8.266666666666667
+Little Women;Drama;English, French;Movie;7;> 2 hrs;7.8;9.5;9.1;3.609665427509294;6.350078492935636;1;2020-07-10;8.799999999999999
+Mamas Boy;Horror;English;Movie;32;1-2 hour;6.2;6.3;5.7;11.0;19.0;1;2020-07-10;6.066666666666666
+Prince of Darkness;Horror;English, Latin;Movie;1;1-2 hour;6.7;5.8;5.0;1.0;1.0;1;2020-07-06;5.833333333333333
+The Informer;Action;English, Polish, Spanish;Movie;1;1-2 hour;6.6;6.2;6.1;0.0;1.0;1;2020-07-06;6.3
+Loving;Biography;English;Movie;1;1-2 hour;7.0;8.8;7.9;3.609665427509294;6.350078492935636;1;2020-07-05;7.900000000000001
+Hook;Adventure;English;Series;36;< 30 minutes;6.8;2.9;5.2;7.0;6.350078492935636;1;2020-07-05;4.966666666666667
+November Criminals;Crime;English, Mandarin;Movie;1;1-2 hour;5.3;0.0;3.1;0.0;0.0;NAO_DEFINIDO;2020-07-03;2.8000000000000003
+Sisters in Law;Documentary;English;Movie;9;1-2 hour;7.2;9.2;7.1;6.0;3.0;1;2020-07-03;7.833333333333333
+Shaft;Action;English, German, Spanish;Movie;1;1-2 hour;5.9;6.7;5.0;1.0;13.0;1;2020-07-02;5.866666666666667
+Rio;Animation;English, Portuguese;Movie;5;1-2 hour;6.9;7.2;6.3;3.0;6.350078492935636;1;2020-07-02;6.8
+The Silence of Others;Documentary;Spanish, English, Basque, Catalan;Movie;6;1-2 hour;8.0;10.0;7.3;3.609665427509294;13.0;1;2020-07-02;8.433333333333334
+Twisted;Crime;English, Italian, Spanish;Movie;2;1-2 hour;5.3;0.1;2.6;1.0;0.0;1;2020-07-01;2.6666666666666665
+My Cousin Rachel;Drama;English, Italian;Movie;2;1-2 hour;6.0;7.6;6.3;1.0;4.0;1;2020-07-01;6.633333333333333
+Michael;Comedy;English, Portuguese;Movie;4;1-2 hour;5.7;3.4;3.8;0.0;1.0;1;2020-07-01;4.3
+Chavela;Documentary;English, Spanish;Movie;4;1-2 hour;7.8;9.5;6.8;6.0;5.0;1;2020-07-01;8.033333333333333
+Ride;Comedy;English;Movie;2;1-2 hour;5.7;5.2;4.8;0.0;0.0;NAO_DEFINIDO;2020-06-30;5.233333333333333
+Ride Like a Girl;Biography;English;Movie;1;1-2 hour;7.0;6.8;4.7;0.0;9.0;NAO_DEFINIDO;2020-06-28;6.166666666666667
+Assassination Nation;Action;English, Italian;Movie;15;1-2 hour;5.9;7.4;5.6;1.0;4.0;1;2020-06-27;6.3
+Straight Up;Comedy;English, French;Movie;2;1-2 hour;6.8;9.3;6.6;0.0;2.0;1;2020-06-27;7.566666666666666
+Ordinary People;Drama;English;Movie;35;1-2 hour;7.7;8.9;8.6;3.609665427509294;14.0;1;2020-06-26;8.4
+Red;Action;English, Russian;Movie;1;> 2 hrs;7.0;7.2;6.0;4.0;19.0;1;2020-06-22;6.733333333333333
+Stay Alive;Fantasy;English;Movie;2;1-2 hour;5.1;1.0;2.4;0.0;0.0;1;2020-06-22;2.8333333333333335
+Human Capital;Crime;Italian, English;Movie;1;1-2 hour;7.3;8.1;6.3;3.609665427509294;6.350078492935636;1;2020-06-22;7.233333333333333
+Woodshock;Drama;English;Movie;2;1-2 hour;4.3;2.5;3.9;0.0;0.0;1;2020-06-22;3.5666666666666664
+Its Okay to Not Be Okay;Horror;English, Hebrew;Series;36;< 30 minutes;7.3;8.6;6.9;8.0;6.350078492935636;1;2020-06-21;7.599999999999999
+Plus One;Comedy;English;Movie;2;1-2 hour;6.6;8.8;6.5;2.0;0.0;NAO_DEFINIDO;2020-06-20;7.3
+Jumanji: The Next Level;Action;English;Movie;7;> 2 hrs;6.6;7.1;5.8;1.0;8.0;1;2020-06-20;6.5
+Disclosure;Drama;English;Movie;36;1-2 hour;6.1;5.9;5.8;2.0;2.0;1;2020-06-19;5.933333333333333
+Yesterday;Comedy;English, Portuguese, Japanese;Movie;4;1-2 hour;6.8;6.4;5.5;1.0;15.0;1;2020-06-19;6.233333333333334
+The King;Biography;English, French, Latin;Movie;2;1-2 hour;7.2;7.1;6.2;3.609665427509294;6.350078492935636;NAO_DEFINIDO;2020-06-18;6.833333333333333
+A Rainy Day in New York;Comedy;English;Movie;3;1-2 hour;6.5;4.7;3.8;3.0;0.0;NAO_DEFINIDO;2020-06-18;5.0
+Scary Stories to Tell in the Dark;Adventure;English;Movie;7;1-2 hour;6.2;7.7;6.1;4.0;5.0;1;2020-06-18;6.666666666666667
+The Goldfinch;Drama;English, Ukrainian, German, French;Movie;3;> 2 hrs;6.3;2.4;4.0;0.0;0.0;1;2020-06-18;4.233333333333333
+The Land;Drama;English;Movie;28;> 2 hrs;6.4;7.0;5.0;2.0;3.0;1;2020-06-18;6.133333333333333
+Ghosts of Cité Soleil;Documentary;Haitian, English, French;Movie;15;1-2 hour;7.1;7.8;6.4;2.0;4.0;1;2021-02-10;7.1000000000000005
+Les Misérables;Drama;English;Movie;1;1-2 hour;7.6;7.0;6.3;3.609665427509294;6.350078492935636;1;2020-12-31;6.966666666666666
+22 минуты;Action;English;Movie;1;1-2 hour;7.0;8.4;7.1;7.0;6.350078492935636;1;2020-12-16;7.5
+The Pirogue;Drama;French, Wolof, Fulah, Spanish;Movie;0;1-2 hour;6.7;8.0;7.4;2.0;2.0;NAO_DEFINIDO;2020-12-06;7.366666666666667
+2 дня;Action;English, Spanish;Movie;1;1-2 hour;8.5;9.3;7.5;3.609665427509294;6.350078492935636;1;2020-11-04;8.433333333333334
+CALM WITH HORSES;Crime;English;Movie;3;1-2 hour;6.9;9.4;6.7;1.0;17.0;NAO_DEFINIDO;2020-10-26;7.666666666666667
+Викинг 18+;Horror;English;Movie;1;> 2 hrs;5.2;2.3;2.4;1.0;2.0;1;2020-10-21;3.2999999999999994
+Честное пионерское 2;Action;English, Spanish;Movie;1;1-2 hour;8.5;9.3;7.5;3.609665427509294;6.350078492935636;1;2020-10-14;8.433333333333334
+Честное пионерское 3;Animation;English, Spanish;Movie;1;1-2 hour;8.2;9.8;9.2;3.609665427509294;6.350078492935636;1;2020-10-14;9.066666666666666
+8 первых свиданий;Mystery;English;Movie;1;1-2 hour;7.0;8.1;7.2;11.0;6.350078492935636;1;2020-10-07;7.433333333333333
+Anna;Action;English, Russian, French;Movie;5;1-2 hour;6.6;3.3;4.0;0.0;1.0;1;2020-06-15;4.633333333333333
+The White Crow;Biography;Russian, English, French, Spanish;Movie;1;> 2 hrs;6.6;6.7;6.1;1.0;3.0;1;2020-06-14;6.466666666666666
+Ma;Crime;English;Movie;3;1-2 hour;5.6;5.5;5.3;1.0;5.0;1;2020-06-14;5.466666666666666
+The Last Black Man in San Francisco;Drama;English;Movie;1;> 2 hrs;7.3;9.2;8.3;3.609665427509294;6.350078492935636;1;2020-06-14;8.266666666666667
+Fast & Furious Presents: Hobbs & Shaw;Action;English, Spanish, Russian, Japanese, Cantonese, Dutch;Movie;2;> 2 hrs;7.0;7.0;6.1;10.0;6.350078492935636;1;2020-06-14;6.7
+Good Boys;Adventure;English;Movie;1;1-2 hour;6.7;8.0;6.0;2.0;7.0;1;2020-06-14;6.8999999999999995
+The Art of Self-Defense;Action;English, French, German;Movie;3;1-2 hour;6.7;8.4;6.5;0.0;5.0;1;2020-06-14;7.2
+Midway;Action;English, Japanese, Mandarin;Movie;3;> 2 hrs;6.7;4.1;4.7;0.0;1.0;1;2020-06-14;5.166666666666667
+Killerman;Action;English;Movie;2;1-2 hour;5.4;2.6;4.2;0.0;0.0;1;2020-06-14;4.066666666666667
+The Other Lamb;Drama;English;Movie;1;1-2 hour;5.2;7.5;6.5;2.0;3.0;1;2020-06-13;6.3999999999999995
+Angel Heart;Horror;English, French;Series;1;< 30 minutes;7.3;7.9;6.1;2.0;4.0;1;2020-06-11;7.099999999999999
+Boundaries;Comedy;English;Movie;2;1-2 hour;5.2;4.9;5.0;0.0;4.0;1;2020-06-11;5.033333333333333
+Bay of Angels;Drama;French;Movie;1;1-2 hour;7.3;8.6;7.6;1.0;0.0;1;2020-06-10;7.833333333333333
+VFW;Action;English;Movie;1;1-2 hour;6.1;8.1;7.2;2.0;1.0;NAO_DEFINIDO;2020-06-09;7.133333333333333
+Lean on Pete;Adventure;English, Spanish;Movie;1;> 2 hrs;7.2;9.0;8.0;11.0;16.0;1;2020-06-06;8.066666666666666
+It Chapter Two;Drama;English, North American Indian, Spanish;Movie;3;> 2 hrs;6.5;6.2;5.8;5.0;6.350078492935636;1;2020-06-04;6.166666666666667
+The Addams Family;Comedy;English, Italian, French;Movie;1;1-2 hour;6.9;6.4;5.7;5.0;6.350078492935636;1;2020-06-02;6.333333333333333
+Scums Wish;Crime;English;Series;5;< 30 minutes;7.6;8.9;7.8;0.0;0.0;1;2020-06-01;8.1
+Mirai;Animation;Japanese, English;Movie;3;1-2 hour;7.0;9.0;8.1;5.0;6.350078492935636;1;2020-06-01;8.033333333333333
+Rememory;Drama;English;Movie;1;1-2 hour;6.2;2.5;4.8;0.0;1.0;NAO_DEFINIDO;2020-06-01;4.5
+Maiden;Documentary;English, French;Movie;1;1-2 hour;7.7;9.8;8.2;8.0;11.0;1;2020-06-01;8.566666666666666
+The Kitchen;Action;English, Hebrew;Movie;2;1-2 hour;5.5;2.4;3.5;0.0;1.0;1;2020-06-01;3.8000000000000003
+Ride;Comedy;English;Movie;3;1-2 hour;5.7;5.2;4.8;0.0;0.0;NAO_DEFINIDO;2020-06-01;5.233333333333333
+The Kill Team;Action;English;Movie;1;1-2 hour;5.9;7.0;6.0;0.0;0.0;NAO_DEFINIDO;2020-06-01;6.3
+High Strung Free Dance;Music;English;Movie;2;1-2 hour;6.8;5.0;4.3;0.0;0.0;1;2020-05-31;5.366666666666667
+Untouchable;Documentary;English;Movie;1;1-2 hour;6.7;8.7;7.1;1.0;6.0;NAO_DEFINIDO;2020-05-30;7.5
+Night;Adventure;English, Italian, Hebrew;Movie;8;1-2 hour;6.4;4.3;4.8;2.0;8.0;1;2020-05-29;5.166666666666667
+Im No Longer Here;Action;English, Sanskrit;Movie;36;1-2 hour;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2020-05-27;5.6000000000000005
+Ne Zha;Animation;Mandarin, English;Movie;2;1-2 hour;7.5;8.8;5.4;3.609665427509294;6.350078492935636;1;2020-05-26;7.233333333333334
+Snowpiercer;Action;English, Korean, French, Japanese, Czech, German;Series;35;< 30 minutes;7.1;9.4;8.4;3.609665427509294;6.350078492935636;1;2020-05-25;8.299999999999999
+The Other;Drama;English;Movie;33;1-2 hour;6.9;8.3;6.5;1.0;0.0;1;2020-05-25;7.233333333333334
+Donkey Skin;Drama;French;Movie;1;1-2 hour;7.0;8.9;7.0;1.0;0.0;NAO_DEFINIDO;2020-05-20;7.633333333333333
+Monos;Adventure;Spanish, English;Movie;4;1-2 hour;6.9;9.2;7.8;3.609665427509294;6.350078492935636;1;2020-05-17;7.966666666666666
+Mystify: Michael Hutchence;Documentary;English, Italian, French;Movie;4;1-2 hour;7.3;10.0;7.3;1.0;7.0;1;2020-05-17;8.200000000000001
+Whats Up?;Comedy;English;Movie;35;1-2 hour;6.4;5.4;4.7;5.0;9.0;1;2020-05-17;5.5
+Lifes Speed Bump;Horror;English, Japanese, Vietnamese;Movie;29;1-2 hour;6.6;6.7;5.4;0.0;7.0;1;2020-05-17;6.233333333333333
+Lets Dance;Crime;Swedish, Spanish;Movie;29;1-2 hour;7.9;9.8;8.2;3.609665427509294;6.350078492935636;1;2020-05-17;8.633333333333335
+For Sama;Documentary;Arabic, English;Movie;3;1-2 hour;8.5;9.9;8.9;3.609665427509294;6.350078492935636;1;2020-05-17;9.1
+The End;Comedy;English;Movie;35;1-2 hour;6.2;6.0;4.6;0.0;0.0;1;2020-05-17;5.6000000000000005
+Pat & Mat: Winter Fun;Biography;English;Movie;1;30-60 mins;7.3;8.6;5.3;0.0;4.0;NAO_DEFINIDO;2020-05-14;7.066666666666666
+Jexi;Comedy;English;Movie;4;1-2 hour;6.0;1.9;3.9;0.0;1.0;1;2020-05-14;3.9333333333333336
+Human Nature;Comedy;English, French;Movie;33;1-2 hour;6.4;4.9;5.6;2.0;2.0;1;2020-05-14;5.633333333333333
+Ali & Alia;Biography;English, French, Swahili;Movie;35;1-2 hour;6.8;6.8;6.5;10.0;6.350078492935636;1;2020-05-13;6.7
+Match;Comedy;English, French;Movie;33;1-2 hour;6.7;7.6;6.2;0.0;1.0;1;2020-05-07;6.833333333333333
+Ophelia;Drama;English, Norwegian, Latin;Movie;3;1-2 hour;6.6;6.0;6.0;4.0;4.0;1;2020-05-06;6.2
+Premature;Comedy;English, French;Movie;1;1-2 hour;5.8;4.8;3.4;0.0;2.0;NAO_DEFINIDO;2020-05-06;4.666666666666667
+The Circus;Comedy;None, English;Movie;2;1-2 hour;8.1;9.6;9.0;1.0;3.0;NAO_DEFINIDO;2020-05-04;8.9
+City Lights;Comedy;None, English;Movie;2;1-2 hour;8.5;9.8;9.9;3.0;0.0;1;2020-05-04;9.4
+Black Cat, White Cat;Comedy;Romany, Serbian, Bulgarian;Movie;1;> 2 hrs;8.1;8.3;7.3;5.0;5.0;1;2020-05-04;7.8999999999999995
+Bird on a Wire;Action;English;Movie;8;1-2 hour;6.0;3.2;3.6;0.0;0.0;1;2020-05-02;4.266666666666667
+Step;Documentary;English;Movie;2;1-2 hour;6.8;9.6;8.1;9.0;6.350078492935636;1;2020-05-01;8.166666666666666
+A Score to Settle;Action;English, Spanish, Italian;Movie;2;1-2 hour;4.6;1.5;3.7;0.0;1.0;NAO_DEFINIDO;2020-05-01;3.266666666666667
+Gangsters Paradise: Jerusalema;Action;English, Afrikaans;Movie;32;1-2 hour;7.3;7.6;5.3;6.0;1.0;1;2020-05-01;6.733333333333333
+The Soft Skin;Drama;French, Portuguese, English;Movie;2;1-2 hour;7.5;8.9;7.8;1.0;1.0;1;2020-04-24;8.066666666666668
+Black and Blue;Action;English;Movie;8;1-2 hour;6.4;5.2;5.4;1.0;2.0;1;2020-04-22;5.666666666666667
+The Willoughbys;Animation;English;Movie;36;1-2 hour;6.4;9.1;6.8;0.0;6.0;NAO_DEFINIDO;2020-04-22;7.433333333333333
+Circus of Books;Documentary;English;Movie;36;1-2 hour;7.0;9.8;7.4;2.0;3.0;NAO_DEFINIDO;2020-04-22;8.066666666666668
+What They Had;Drama;English;Movie;10;1-2 hour;6.6;8.6;6.9;3.0;4.0;1;2020-04-21;7.366666666666667
+Zombieland: Double Tap;Action;English, Spanish, Italian, Inuktitut, Hindi;Movie;8;1-2 hour;6.7;6.8;5.5;0.0;4.0;1;2020-04-20;6.333333333333333
+The Sun Is Also a Star;Drama;English, Korean;Movie;1;1-2 hour;5.9;5.2;5.2;0.0;2.0;1;2020-04-17;5.433333333333334
+Playmobil: The Movie;Animation;English, Spanish;Movie;6;1-2 hour;4.8;1.8;2.5;0.0;0.0;1;2020-04-16;3.033333333333333
+Little;Comedy;English;Movie;7;1-2 hour;5.5;4.6;4.9;3.0;6.0;1;2020-04-12;5.0
+Gemini;Crime;English;Movie;2;1-2 hour;5.4;7.2;7.1;1.0;5.0;1;2020-04-10;6.566666666666666
+Night Hunter;Thriller;English;Movie;2;1-2 hour;5.9;1.4;3.1;1.0;0.0;NAO_DEFINIDO;2020-04-09;3.466666666666667
+What to Do in Case of Fire;Action;German;Movie;2;1-2 hour;6.8;5.0;4.7;2.0;3.0;1;2020-04-08;5.5
+Sing Yesterday for Me;Animation;English, Japanese, Ukrainian;Series;4;< 30 minutes;7.1;7.2;5.9;3.0;6.350078492935636;1;2020-04-08;6.733333333333333
+Mine 9;Drama;English;Movie;3;1-2 hour;6.4;9.0;6.5;4.0;0.0;1;2020-04-06;7.3
+School Daze;Comedy;English;Movie;1;> 2 hrs;6.0;5.6;5.2;0.0;1.0;1;2020-04-01;5.599999999999999
+The Ruins;Adventure;English, Maya, Spanish, Greek, German;Movie;2;1-2 hour;5.9;4.8;4.4;0.0;7.0;1;2020-04-01;5.033333333333334
+The Front Runner;Biography;English;Movie;9;1-2 hour;6.1;5.9;6.1;1.0;4.0;1;2020-04-01;6.033333333333334
+Fame;Drama;English, Spanish, French, Russian;Movie;1;> 2 hrs;6.6;8.4;5.8;7.0;16.0;1;2020-04-01;6.933333333333333
+Juliet, Naked;Comedy;English;Movie;1;1-2 hour;6.6;8.3;6.7;0.0;5.0;1;2020-04-01;7.2
+All Is True;Biography;English;Movie;3;1-2 hour;6.2;7.2;5.9;1.0;3.0;1;2020-04-01;6.433333333333334
+When Marnie Was There;Animation;Japanese;Movie;34;1-2 hour;7.7;9.1;7.2;4.0;18.0;1;2020-04-01;8.0
+Whisper of the Heart;Animation;Japanese;Movie;34;1-2 hour;7.9;9.4;7.5;0.0;0.0;1;2020-04-01;8.266666666666667
+Endless Love;Drama;English;Movie;10;1-2 hour;4.9;2.8;3.0;3.0;16.0;1;2020-04-01;3.5666666666666664
+Pom Poko;Animation;Japanese;Movie;34;1-2 hour;7.3;8.5;7.7;3.0;1.0;1;2020-03-31;7.833333333333333
+Howl’s Moving Castle;Animation;Japanese;Movie;34;1-2 hour;8.2;8.7;8.0;3.609665427509294;6.350078492935636;1;2020-03-31;8.299999999999999
+From Up on Poppy Hill;Animation;Japanese;Movie;34;1-2 hour;7.4;7.9;7.1;6.0;11.0;1;2020-03-31;7.466666666666666
+Anatomy;Horror;German, Latin;Movie;2;1-2 hour;6.1;5.8;3.3;1.0;3.0;1;2020-03-31;5.066666666666666
+47 Meters Down: Uncaged;Adventure;English, Spanish;Movie;6;1-2 hour;5.0;4.5;4.3;0.0;0.0;1;2020-03-30;4.6000000000000005
+Bethany Hamilton: Unstoppable;Documentary;English;Movie;33;1-2 hour;7.4;7.4;5.5;3.0;1.0;1;2020-03-25;6.766666666666667
+Annabelle Comes Home;Horror;English;Movie;8;1-2 hour;5.9;6.5;5.3;0.0;3.0;1;2020-03-25;5.8999999999999995
+The Parts You Lose;Crime;English;Movie;1;1-2 hour;5.6;6.7;4.7;0.0;0.0;NAO_DEFINIDO;2020-03-24;5.666666666666667
+Brimstone;Drama;English, Dutch;Movie;2;> 2 hrs;7.1;4.3;4.5;11.0;12.0;NAO_DEFINIDO;2020-03-22;5.3
+Angel Has Fallen;Action;English;Movie;6;> 2 hrs;6.4;3.8;4.5;0.0;1.0;1;2020-03-20;4.8999999999999995
+Summer Night;Comedy;English;Movie;2;1-2 hour;4.8;5.2;4.9;0.0;1.0;NAO_DEFINIDO;2020-03-19;4.966666666666666
+Overcomer;Drama;English;Movie;8;1-2 hour;6.7;5.3;1.7;2.0;2.0;1;2020-03-19;4.566666666666666
+A Girls Tears;Comedy;English;Movie;1;1-2 hour;5.8;3.5;4.1;1.0;0.0;1;2020-03-18;4.466666666666666
+Extra Ordinary;Comedy;English;Movie;1;1-2 hour;6.4;9.8;7.2;3.609665427509294;7.0;1;2020-03-17;7.800000000000001
+The Mustang;Drama;English;Movie;1;1-2 hour;6.9;9.5;7.7;6.0;9.0;1;2020-03-15;8.033333333333333
+Them That Follow;Drama;English;Movie;1;1-2 hour;5.3;5.9;5.7;1.0;5.0;1;2020-03-13;5.633333333333333
+Maquia: When the Promised Flower Blooms;Animation;Japanese, English;Movie;1;1-2 hour;7.5;10.0;7.2;1.0;1.0;1;2020-03-13;8.233333333333333
+Once Upon a Time in Hollywood;Comedy;English, Italian, Spanish, German;Movie;7;> 2 hrs;7.6;8.5;8.3;3.609665427509294;6.350078492935636;1;2020-03-11;8.133333333333333
+Q Ball;Documentary;English;Movie;35;1-2 hour;6.8;9.1;6.9;1.0;2.0;NAO_DEFINIDO;2020-03-11;7.599999999999999
+Miles Davis: Birth of the Cool;Documentary;English;Movie;36;1-2 hour;7.4;9.2;7.6;1.0;7.0;NAO_DEFINIDO;2020-03-06;8.066666666666666
+Stuff and Dough;Drama;Romanian;Movie;1;1-2 hour;7.2;7.3;7.6;6.0;4.0;NAO_DEFINIDO;2020-03-04;7.366666666666667
+Freaks;Drama;English;Movie;3;1-2 hour;6.7;8.8;6.3;9.0;13.0;1;2020-03-04;7.266666666666667
+Sieranevada;Comedy;Romanian;Movie;1;> 2 hrs;7.3;9.2;8.2;3.609665427509294;19.0;NAO_DEFINIDO;2020-03-04;8.233333333333333
+The Death of Mr. Lazarescu;Comedy;Romanian;Movie;34;> 2 hrs;7.9;9.3;8.6;3.609665427509294;14.0;1;2020-03-04;8.6
+Aurora;Drama;Romanian;Movie;34;> 2 hrs;6.6;7.7;6.3;7.0;8.0;1;2020-03-04;6.866666666666666
+White Wedding;Comedy;Zulu, Afrikaans, Xhosa, English;Movie;1;1-2 hour;5.8;5.6;6.0;1.0;7.0;1;2020-03-02;5.8
+October Sky;Biography;English;Movie;1;1-2 hour;7.8;9.1;7.1;4.0;11.0;1;2020-03-01;8.0
+Driven;Biography;English;Movie;1;1-2 hour;6.3;6.3;5.5;0.0;0.0;NAO_DEFINIDO;2020-03-01;6.033333333333334
+Apollo 11;Documentary;English;Movie;4;1-2 hour;8.2;9.9;8.8;3.609665427509294;6.350078492935636;1;2020-03-01;8.966666666666667
+Blood Brother;Action;English;Movie;13;1-2 hour;4.4;1.7;1.8;0.0;0.0;NAO_DEFINIDO;2020-03-01;2.6333333333333333
+Hotel Mumbai;Action;Hindi, English, Russian;Movie;1;> 2 hrs;7.6;7.6;6.2;9.0;6.350078492935636;1;2020-03-01;7.133333333333333
+Lady Macbeth;Drama;English;Movie;1;1-2 hour;6.8;8.8;7.6;3.609665427509294;6.350078492935636;1;2020-03-01;7.733333333333333
+ZZ TOP: THAT LITTLE OL BAND FROM TEXAS;Documentary;English;Movie;6;1-2 hour;7.5;10.0;6.4;0.0;1.0;1;2020-03-01;7.966666666666666
+Nausicaä of the Valley of the Wind;Animation;Japanese;Movie;33;1-2 hour;8.1;8.9;8.6;3.0;1.0;1;2020-03-01;8.533333333333333
+My Neighbors the Yamadas;Animation;Japanese;Movie;33;1-2 hour;7.2;7.8;7.5;0.0;0.0;NAO_DEFINIDO;2020-03-01;7.5
+Paradise Hills;Fantasy;English;Movie;3;1-2 hour;5.5;6.4;4.9;1.0;6.350078492935636;NAO_DEFINIDO;2020-02-28;5.6000000000000005
+Unstoppable;Action;English;Series;36;< 30 minutes;6.8;8.7;6.9;1.0;14.0;1;2020-02-28;7.466666666666666
+Godzilla: King of the Monsters;Action;English, Japanese, Chinese, Spanish;Movie;9;> 2 hrs;6.0;4.2;4.8;6.0;13.0;1;2020-02-28;5.0
+The Angry Birds Movie 2;Animation;English;Movie;10;1-2 hour;6.4;7.3;6.0;1.0;3.0;1;2020-02-27;6.566666666666666
+Girl on the Third Floor;Drama;English;Movie;6;1-2 hour;4.6;8.4;6.5;2.0;2.0;NAO_DEFINIDO;2020-02-22;6.5
+Babies;Documentary;English, Japanese, Mongolian;Series;36;< 30 minutes;7.1;6.7;6.3;0.0;3.0;1;2020-02-21;6.699999999999999
+A Shaun the Sheep Movie: Farmageddon;Animation;English;Movie;8;1-2 hour;6.9;9.6;7.9;2.0;9.0;NAO_DEFINIDO;2020-02-14;8.133333333333333
+Puzzle;Drama;English;Movie;4;1-2 hour;6.7;8.3;6.6;2.0;2.0;1;2020-02-13;7.2
+After The Wedding;Drama;English, Hindi;Movie;4;1-2 hour;6.3;4.5;5.0;0.0;0.0;1;2020-02-12;5.266666666666667
+The Professor and the Madman;Biography;English;Movie;2;> 2 hrs;7.3;4.1;2.7;0.0;1.0;NAO_DEFINIDO;2020-02-11;4.7
+Lying and Stealing;Crime;English;Movie;2;1-2 hour;5.4;6.2;5.0;0.0;0.0;NAO_DEFINIDO;2020-02-10;5.533333333333334
+The Ballad of Lefty Brown;Action;English;Movie;1;1-2 hour;6.3;7.9;6.4;1.0;1.0;1;2020-02-07;6.866666666666667
+Late Night;Comedy;English;Movie;4;1-2 hour;6.5;8.0;7.0;1.0;9.0;1;2020-02-07;7.166666666666667
+Pokémon Detective Pikachu;Action;English, Japanese;Movie;7;1-2 hour;6.6;6.8;5.3;0.0;8.0;1;2020-02-07;6.233333333333333
+Grandmas Wedding;Comedy;English;Movie;34;1-2 hour;6.7;9.1;7.7;5.0;13.0;1;2020-02-05;7.833333333333333
+Show Dogs;Adventure;English;Movie;6;1-2 hour;3.8;1.6;3.1;0.0;1.0;1;2020-02-03;2.8333333333333335
+Red Sparrow;Action;English, Russian;Movie;2;> 2 hrs;6.6;4.5;5.3;3.0;8.0;1;2020-02-01;5.466666666666666
+UglyDolls;Animation;English;Movie;5;1-2 hour;5.0;2.7;3.9;1.0;1.0;1;2020-02-01;3.866666666666667
+Porco Rosso;Animation;Japanese;Movie;34;1-2 hour;7.7;9.5;8.3;3.0;0.0;1;2020-02-01;8.5
+Only Yesterday;Animation;Japanese, Bulgarian;Movie;33;1-2 hour;7.6;8.8;9.0;1.0;8.0;1;2020-02-01;8.466666666666667
+Ocean Waves;Animation;Japanese;Movie;33;1-2 hour;6.7;8.8;7.3;0.0;0.0;1;2020-02-01;7.6000000000000005
+Castle in the Sky;Animation;Japanese;Movie;34;> 2 hrs;8.0;9.6;7.8;1.0;0.0;1;2020-02-01;8.466666666666667
+Uncut Gems;Crime;English, Hebrew;Movie;36;> 2 hrs;7.4;9.2;9.1;3.609665427509294;6.350078492935636;1;2020-01-31;8.566666666666666
+37 Seconds;Drama;Japanese, Thai;Movie;35;1-2 hour;7.3;8.8;6.2;8.0;3.0;NAO_DEFINIDO;2020-01-31;7.433333333333334
+The Children Act;Drama;English;Movie;1;1-2 hour;6.7;7.4;6.2;2.0;4.0;1;2020-01-30;6.766666666666667
+Mandy;Action;English;Movie;6;> 2 hrs;6.5;9.0;8.1;3.609665427509294;6.350078492935636;1;2020-01-29;7.866666666666667
+The Queen;Documentary;English;Movie;5;1-2 hour;7.3;9.6;7.8;0.0;0.0;1;2020-01-24;8.233333333333333
+Whisky;Comedy;Spanish, Portuguese, Italian;Movie;6;1-2 hour;7.0;10.0;6.6;3.609665427509294;7.0;NAO_DEFINIDO;2020-01-24;7.866666666666667
+Toni Morrison: The Pieces I Am;Documentary;English;Movie;1;> 2 hrs;7.4;9.7;8.2;8.0;9.0;1;2020-01-21;8.433333333333332
+Romans;Drama;English;Movie;1;1-2 hour;5.4;8.0;5.8;1.0;0.0;NAO_DEFINIDO;2020-01-21;6.3999999999999995
+The Biggest Little Farm;Documentary;English, Spanish;Movie;4;1-2 hour;8.1;9.1;7.3;3.609665427509294;6.350078492935636;1;2020-01-20;8.166666666666666
+Autumn Spring;Comedy;Czech, Slovak;Movie;2;1-2 hour;7.5;9.7;6.8;9.0;6.0;1;2020-01-19;8.0
+The Curse of La Llorona;Horror;English, Spanish;Movie;9;1-2 hour;5.3;2.8;4.1;1.0;7.0;1;2020-01-17;4.066666666666666
+Jezebel;Drama;English;Movie;4;1-2 hour;5.7;8.9;8.0;3.0;3.0;NAO_DEFINIDO;2020-01-16;7.533333333333334
+1945;Drama;Hungarian, Russian;Movie;1;1-2 hour;7.1;9.7;7.3;7.0;5.0;1;2020-01-15;8.033333333333333
+Christmas Killing Joke;Comedy;English;Movie;2;1-2 hour;7.6;6.8;4.9;0.0;0.0;1;2020-01-06;6.433333333333334
+Long shot;Comedy;English, Swedish, French, Vietnamese, Russian, Hebrew;Movie;6;> 2 hrs;6.8;8.1;6.7;5.0;11.0;1;2020-01-03;7.2
+Missing Link;Animation;English, Spanish, Tibetan;Movie;6;1-2 hour;6.7;8.9;6.8;5.0;6.350078492935636;1;2020-01-03;7.466666666666666
+Spider-Man: Far from Home;Action;English, Italian, Czech;Movie;8;> 2 hrs;7.5;9.1;6.9;10.0;6.350078492935636;1;2020-01-03;7.833333333333333
+Shazam!;Action;English, Spanish;Movie;10;> 2 hrs;7.0;9.0;7.1;0.0;6.350078492935636;1;2020-01-03;7.7
+The Hustle;Comedy;English, German, Dutch, Danish, French, American Sign Language;Movie;1;1-2 hour;5.4;1.3;3.5;3.0;3.0;1;2020-01-02;3.4000000000000004
+True Romance;Crime;English, Italian;Movie;1;> 2 hrs;7.9;9.3;5.9;1.0;10.0;1;2020-01-01;7.7
+The Circle;Drama;English;Series;36;< 30 minutes;5.3;1.5;4.3;3.0;1.0;1;2020-01-01;3.6999999999999997
+My Own Private Idaho;Drama;English, Italian, German;Movie;4;1-2 hour;7.1;7.9;7.7;3.609665427509294;10.0;1;2020-01-01;7.566666666666667
+Antibodies;Crime;German;Movie;2;> 2 hrs;7.0;6.7;5.7;9.0;0.0;NAO_DEFINIDO;2020-01-01;6.466666666666666
+Ghost Stories;Drama;English;Movie;36;> 2 hrs;6.4;8.5;6.8;1.0;7.0;1;2019-12-31;7.233333333333333
+Mrs. Lowry and Son;Biography;English;Movie;2;1-2 hour;6.7;6.2;4.2;0.0;1.0;NAO_DEFINIDO;2019-12-31;5.7
+John Wick: Chapter 3 - Parabellum;Action;English, Russian, Japanese, Indonesian, Mandarin, Italian, Arabic, Latin;Movie;9;> 2 hrs;7.4;8.9;7.3;3.609665427509294;6.350078492935636;1;2019-12-31;7.866666666666667
+Ask Dr. Ruth;Documentary;English;Movie;5;1-2 hour;7.6;9.2;6.8;3.0;5.0;1;2019-12-31;7.866666666666666
+Us;Horror;English;Movie;12;1-2 hour;6.8;9.3;8.1;3.609665427509294;6.350078492935636;1;2019-12-31;8.066666666666666
+Whos the Woman, Whos the Man;Action;English, German;Movie;3;1-2 hour;6.6;5.2;5.9;3.609665427509294;6.350078492935636;1;2019-12-31;5.8999999999999995
+Running with the Devil;Crime;English, Spanish;Movie;2;1-2 hour;5.4;2.4;4.2;0.0;0.0;NAO_DEFINIDO;2019-12-30;4.000000000000001
+The Secret Life of Pets 2;Animation;English;Movie;5;1-2 hour;6.5;6.0;5.5;0.0;11.0;1;2019-12-27;6.0
+Penguin Highway;Animation;Japanese, English;Movie;3;1-2 hour;7.1;10.0;8.2;0.0;4.0;1;2019-12-27;8.433333333333332
+MFKZ;Animation;French, Spanish, English;Movie;1;1-2 hour;6.7;3.9;4.8;0.0;3.0;1;2019-12-25;5.133333333333334
+Thunder Road;Comedy;English;Movie;2;1-2 hour;7.1;9.6;7.9;3.609665427509294;14.0;NAO_DEFINIDO;2019-12-25;8.200000000000001
+Fighting with My Family;Biography;English;Movie;1;1-2 hour;7.1;9.3;6.8;11.0;4.0;1;2019-12-25;7.733333333333333
+Jacobs Ladder;Horror;English;Movie;2;1-2 hour;3.5;0.4;3.1;0.0;0.0;NAO_DEFINIDO;2019-12-22;2.3333333333333335
+First Reformed;Drama;English;Movie;8;1-2 hour;7.1;9.3;8.5;3.609665427509294;6.350078492935636;1;2019-12-21;8.299999999999999
+Pet Sematary;Horror;English;Movie;17;1-2 hour;5.7;5.7;5.7;1.0;9.0;1;2019-12-20;5.7
+Angel of Mine;Drama;English;Movie;1;1-2 hour;6.4;7.3;4.7;0.0;2.0;NAO_DEFINIDO;2019-12-20;6.133333333333334
+American Dreamer;Crime;English;Movie;1;1-2 hour;6.1;5.3;4.0;0.0;0.0;NAO_DEFINIDO;2019-12-20;5.133333333333333
+The Two Popes;Biography;English, Spanish, Italian, Latin, Portuguese, French, German;Movie;36;> 2 hrs;7.6;8.9;7.5;3.609665427509294;6.350078492935636;NAO_DEFINIDO;2019-12-20;8.0
+Whats New Scooby-Doo?;Comedy;English;Series;1;< 30 minutes;6.4;5.4;4.7;5.0;9.0;1;2019-12-15;5.5
+One Floor Below;Drama;Romanian;Movie;1;1-2 hour;6.4;8.2;6.6;7.0;11.0;NAO_DEFINIDO;2019-12-15;7.066666666666666
+6 Underground;Action;English, Turkmen, Cantonese, Italian, Spanish, Ukrainian, French;Movie;36;> 2 hrs;6.1;3.7;4.1;1.0;9.0;NAO_DEFINIDO;2019-12-13;4.633333333333333
+Divided We Fall;Comedy;German, Czech;Movie;2;1-2 hour;7.6;9.0;6.9;3.609665427509294;4.0;1;2019-12-13;7.833333333333333
+Mary, Queen of Scots;Biography;English, French, Scottish Gaelic, Latin;Movie;6;> 2 hrs;6.3;2.7;6.0;7.0;6.350078492935636;1;2019-12-13;5.0
+Happy Death Day 2U;Comedy;English, French;Movie;9;1-2 hour;6.2;7.1;5.7;0.0;4.0;1;2019-12-13;6.333333333333333
+Midsommar;Drama;English, Swedish;Movie;2;> 2 hrs;7.1;8.3;7.2;3.609665427509294;6.350078492935636;1;2019-12-12;7.533333333333334
+Incident in a Ghostland;Drama;English, French;Movie;1;1-2 hour;6.4;5.6;4.4;6.0;5.0;NAO_DEFINIDO;2019-12-12;5.466666666666666
+The Sky Is Pink;Drama;Hindi;Movie;31;> 2 hrs;7.6;7.1;5.5;0.0;9.0;1;2019-12-11;6.733333333333333
+Light of My Life;Drama;English;Movie;1;1-2 hour;6.6;8.2;6.7;0.0;5.0;1;2019-12-10;7.166666666666667
+Infinite Football;Documentary;Romanian;Movie;1;1-2 hour;6.6;10.0;7.5;1.0;3.0;NAO_DEFINIDO;2019-12-10;8.033333333333333
+12:08 East of Bucharest;Comedy;Romanian;Movie;1;1-2 hour;7.4;9.6;7.7;3.609665427509294;13.0;1;2019-12-10;8.233333333333334
+Hail Satan?;Documentary;English;Movie;1;1-2 hour;7.3;9.6;7.6;3.0;19.0;1;2019-12-07;8.166666666666666
+On the Basis of Sex;Biography;English;Movie;5;> 2 hrs;7.1;7.3;5.9;3.0;12.0;1;2019-12-07;6.766666666666667
+Marriage Story;Comedy;English, Spanish;Movie;36;> 2 hrs;7.9;9.4;9.4;3.609665427509294;6.350078492935636;NAO_DEFINIDO;2019-12-06;8.9
+Men in Black: International;Action;English, French, Chinese;Movie;4;1-2 hour;5.6;2.3;3.8;0.0;9.0;2;2019-12-05;3.9
+King of Thieves;Biography;English;Movie;1;1-2 hour;5.5;3.3;4.7;0.0;2.0;1;2019-12-05;4.5
+The Operative;Action;English, German, Persian, Hebrew, Kurdish, French;Movie;5;1-2 hour;5.7;4.1;4.7;0.0;0.0;NAO_DEFINIDO;2019-12-01;4.833333333333333
+The Shape of Water;Adventure;English, American Sign Language, Russian, French;Movie;2;> 2 hrs;7.3;9.2;8.7;3.609665427509294;6.350078492935636;2;2019-12-01;8.4
+The Greatest Showman;Biography;English;Movie;2;1-2 hour;7.6;5.7;4.8;3.609665427509294;6.350078492935636;2;2019-12-01;6.033333333333332
+The House with a Clock in Its Walls;Comedy;English;Movie;8;1-2 hour;6.1;6.5;5.7;1.0;1.0;2;2019-12-01;6.1000000000000005
+The Hole in the Ground;Drama;English;Movie;1;1-2 hour;5.6;8.3;6.3;2.0;17.0;1;2019-12-01;6.733333333333333
+A Private War;Biography;English;Movie;2;1-2 hour;6.7;8.8;7.5;1.0;9.0;1;2019-12-01;7.666666666666667
+12 Strong;Action;English, Dari, Russian, Spanish, Uzbek;Movie;14;> 2 hrs;6.6;5.0;5.4;0.0;3.0;1;2019-12-01;5.666666666666667
+The Long Kiss Goodnight;Action;English;Movie;4;> 2 hrs;6.8;7.0;4.4;0.0;3.0;1;2019-12-01;6.066666666666666
+Arctic Dogs;Animation;English, Korean;Movie;8;1-2 hour;4.7;1.3;2.8;0.0;1.0;1;2019-11-29;2.9333333333333336
+I Lost My Body;Animation;French;Movie;33;1-2 hour;7.6;9.6;8.1;3.609665427509294;6.350078492935636;NAO_DEFINIDO;2019-11-29;8.433333333333332
+Gods Little Village;Crime;Portuguese;Movie;1;1-2 hour;8.6;9.1;7.9;3.609665427509294;6.350078492935636;1;2019-11-29;8.533333333333333
+Dragged Across Concrete;Action;English, Spanish;Movie;1;> 2 hrs;6.9;7.6;6.0;0.0;5.0;NAO_DEFINIDO;2019-11-29;6.833333333333333
+The Island;Comedy;Mandarin, English, French, Japanese, German, Spanish;Movie;32;1-2 hour;6.3;10.0;6.1;7.0;13.0;1;2019-11-29;7.466666666666666
+The LEGO Movie 2: The Second Part;Animation;English;Movie;6;1-2 hour;6.6;8.4;6.5;1.0;12.0;2;2019-11-28;7.166666666666667
+Ruben Brandt, Collector;Animation;English, Hungarian, Italian;Movie;10;1-2 hour;7.5;8.2;7.5;2.0;6.0;1;2019-11-28;7.733333333333333
+The Body Remembers When the World Broke Open;Drama;English;Movie;3;1-2 hour;6.9;9.7;8.7;3.609665427509294;12.0;NAO_DEFINIDO;2019-11-27;8.433333333333332
+The Irishman;Biography;English, Italian, Latin, Spanish, German;Movie;33;> 2 hrs;7.9;9.5;9.4;3.609665427509294;6.350078492935636;NAO_DEFINIDO;2019-11-27;8.933333333333334
+Welcome to Marwen;Biography;English, German, French, Russian;Movie;13;1-2 hour;6.2;3.4;4.0;2.0;8.0;1;2019-11-23;4.533333333333333
+How to Train Your Dragon: The Hidden World;Animation;English;Movie;10;1-2 hour;7.5;9.0;7.1;5.0;6.350078492935636;2;2019-11-23;7.866666666666667
+Marie Curie: The Courage of Knowledge;Biography;French, German, English, Polish;Movie;1;1-2 hour;5.5;6.5;4.9;3.0;8.0;1;2019-11-22;5.633333333333333
+Brightburn;Drama;English;Movie;9;1-2 hour;6.1;5.8;4.4;1.0;2.0;1;2019-11-22;5.433333333333334
+The Longest Yard;Comedy;English;Movie;2;> 2 hrs;7.1;7.9;6.1;2.0;4.0;1;2019-11-20;7.033333333333334
+The Fanatic;Crime;English;Movie;1;1-2 hour;4.1;1.6;1.8;2.0;2.0;NAO_DEFINIDO;2019-11-15;2.5
+Diego Maradona;Documentary;Spanish, Italian, English, French, Portuguese, Catalan;Movie;2;> 2 hrs;7.7;9.0;7.8;1.0;13.0;NAO_DEFINIDO;2019-11-15;8.166666666666666
+Im with the Band: Nasty Cherry;Action;English, Sanskrit;Series;36;< 30 minutes;6.5;5.2;5.1;3.609665427509294;6.350078492935636;1;2019-11-15;5.6000000000000005
+Earthquake Bird;Crime;English, Japanese;Movie;36;1-2 hour;5.9;5.0;5.1;0.0;0.0;NAO_DEFINIDO;2019-11-15;5.333333333333333
+Loners;Comedy;Czech;Movie;1;1-2 hour;7.5;9.3;3.3;10.0;12.0;NAO_DEFINIDO;2019-11-15;6.7
+A Bride for Rip Van Winkle;Drama;Japanese;Movie;1;> 2 hrs;7.2;7.5;5.6;2.0;6.0;NAO_DEFINIDO;2019-11-15;6.766666666666667
+Papi Chulo;Comedy;English;Movie;1;1-2 hour;6.5;7.6;4.2;1.0;3.0;1;2019-11-11;6.099999999999999
+Beauty in Trouble;Comedy;Czech;Movie;1;1-2 hour;6.8;8.6;7.5;6.0;6.0;1;2019-11-10;7.633333333333333
+Fifty Shades Freed;Drama;English;Movie;8;1-2 hour;4.5;1.1;3.1;6.0;10.0;2;2019-11-10;2.9
+Boy Erased;Biography;English;Movie;9;1-2 hour;6.9;8.1;6.9;11.0;6.350078492935636;1;2019-11-09;7.3
+Let It Snow;Comedy;English;Movie;35;1-2 hour;5.8;8.1;5.1;0.0;1.0;NAO_DEFINIDO;2019-11-08;6.333333333333333
+Up and Down;Comedy;Czech, English, German, Russian;Movie;1;1-2 hour;6.9;8.3;7.8;6.0;10.0;1;2019-11-08;7.666666666666667
+The Best of Enemies;Biography;English;Movie;13;> 2 hrs;7.2;5.4;4.9;0.0;4.0;1;2019-11-07;5.833333333333333
+Shadow;Action;Mandarin;Movie;4;1-2 hour;7.0;9.4;8.1;3.609665427509294;6.350078492935636;1;2019-11-06;8.166666666666666
+Burning Cane;Drama;English;Movie;4;1-2 hour;5.5;9.1;7.4;4.0;17.0;NAO_DEFINIDO;2019-11-06;7.333333333333333
+Thoroughbreds;Comedy;English;Movie;25;1-2 hour;6.7;8.7;7.5;1.0;6.350078492935636;1;2019-11-06;7.633333333333333
+Murder on The Orient Express;Crime;English, French, Arabic, German;Movie;2;1-2 hour;6.5;6.0;5.2;1.0;6.350078492935636;2;2019-11-04;5.8999999999999995
+Three Billboards Outside Ebbing, Missouri;Comedy;English;Movie;2;1-2 hour;8.1;9.0;8.8;3.609665427509294;6.350078492935636;2;2019-11-01;8.633333333333333
+Ferdinand;Animation;English, Spanish, German;Movie;2;1-2 hour;6.7;7.2;5.8;2.0;6.350078492935636;2;2019-11-01;6.566666666666666
+American Son;Drama;English;Movie;36;1-2 hour;5.7;4.8;3.4;0.0;7.0;NAO_DEFINIDO;2019-11-01;4.633333333333333
+The King;Biography;English, French, Latin;Movie;35;> 2 hrs;7.2;7.1;6.2;3.609665427509294;6.350078492935636;NAO_DEFINIDO;2019-11-01;6.833333333333333
+You Were Never Really Here;Crime;English;Movie;3;1-2 hour;6.8;8.9;8.4;3.609665427509294;6.350078492935636;1;2019-11-01;8.033333333333333
+Dolemite Is My Name;Biography;English;Movie;36;1-2 hour;7.3;9.7;7.6;3.609665427509294;6.350078492935636;NAO_DEFINIDO;2019-10-25;8.2
+Echo in the Canyon;Documentary;English;Movie;7;1-2 hour;6.9;9.0;6.9;2.0;3.0;1;2019-10-24;7.6000000000000005
+Hellboy;Action;English, Spanish, Russian, German;Movie;5;> 2 hrs;5.2;1.8;3.1;1.0;8.0;1;2019-10-24;3.366666666666667
+The Mule;Crime;English, Spanish;Movie;17;1-2 hour;7.0;7.0;5.8;1.0;10.0;2;2019-10-24;6.6000000000000005
+Breaking News;Action;Cantonese, Mandarin, English;Movie;1;1-2 hour;6.7;7.9;6.3;5.0;11.0;NAO_DEFINIDO;2019-10-21;6.966666666666666
+The Command;Action;English, Russian;Movie;4;1-2 hour;6.6;6.9;5.5;0.0;0.0;NAO_DEFINIDO;2019-10-19;6.333333333333333
+Wounds;Drama;English;Movie;34;1-2 hour;4.0;4.9;5.1;0.0;0.0;NAO_DEFINIDO;2019-10-18;4.666666666666667
+The Laundromat;Comedy;English, Mandarin, Spanish, Russian;Movie;35;1-2 hour;6.3;4.0;5.7;0.0;7.0;NAO_DEFINIDO;2019-10-18;5.333333333333333
+In My Country;Drama;English, Afrikaans;Movie;33;1-2 hour;6.0;2.3;4.4;1.0;3.0;1;2019-10-18;4.233333333333333
+A Vigilante;Crime;English;Movie;1;1-2 hour;5.7;9.0;6.8;0.0;3.0;NAO_DEFINIDO;2019-10-17;7.166666666666667
+Dogman;Crime;Italian;Movie;1;1-2 hour;7.2;8.4;7.1;3.609665427509294;6.350078492935636;1;2019-10-16;7.566666666666667
+El Camino: A Breaking Bad Movie;Action;English;Movie;36;> 2 hrs;7.3;9.1;7.2;4.0;6.350078492935636;NAO_DEFINIDO;2019-10-11;7.866666666666667
+They Shall Not Grow Old;Documentary;English;Movie;6;1-2 hour;8.3;9.9;9.1;5.0;11.0;1;2019-10-10;9.1
+Dark Blue World;War;Czech, German, English, Slovak;Movie;2;1-2 hour;7.2;6.2;5.6;8.0;7.0;1;2019-10-09;6.333333333333333
+Ransom;Action;English;Movie;7;> 2 hrs;6.7;7.5;6.0;3.0;5.0;2;2019-10-05;6.733333333333333
+Mortal Engines;Action;English;Movie;14;> 2 hrs;6.1;2.6;4.4;3.0;3.0;1;2019-10-05;4.366666666666666
+In the Tall Grass;Horror;English;Movie;35;1-2 hour;5.4;3.6;4.6;2.0;3.0;NAO_DEFINIDO;2019-10-04;4.533333333333333
+Clara;Sci-Fi;English, Spanish;Movie;1;1-2 hour;6.7;5.2;4.3;2.0;4.0;NAO_DEFINIDO;2019-10-01;5.3999999999999995
+Five Feet Apart;Drama;English, French;Movie;6;1-2 hour;7.2;5.2;5.3;3.0;7.0;1;2019-10-01;5.8999999999999995
+Wonder Park;Animation;English;Movie;24;1-2 hour;5.9;3.4;4.5;0.0;1.0;1;2019-09-30;4.6000000000000005
+What Men Want;Comedy;English, Mandarin;Movie;26;1-2 hour;5.3;4.2;4.9;1.0;0.0;2;2019-09-30;4.8
+Night School;Comedy;English, Spanish, French, Arabic;Movie;14;1-2 hour;5.6;2.6;4.3;0.0;4.0;2;2019-09-28;4.166666666666666
+The Last Family;Biography;Polish;Movie;1;1-2 hour;7.5;8.6;6.9;3.609665427509294;16.0;NAO_DEFINIDO;2019-09-27;7.666666666666667
+Green Book;Biography;English, Italian, Russian, German;Movie;6;> 2 hrs;8.2;7.8;6.9;3.609665427509294;6.350078492935636;2;2019-09-26;7.633333333333333
+Nancy Drew and the Hidden Staircase;Comedy;English;Movie;5;1-2 hour;5.7;7.2;5.5;0.0;1.0;1;2019-09-26;6.133333333333333
+Phantom Thread;Drama;English, French;Movie;7;> 2 hrs;7.5;9.1;9.0;3.609665427509294;6.350078492935636;1;2019-09-25;8.533333333333333
+Between Two Ferns: The Movie;Comedy;English;Movie;36;1-2 hour;6.1;7.4;5.9;1.0;2.0;NAO_DEFINIDO;2019-09-20;6.466666666666666
+If Beale Street Could Talk;Drama;English, Spanish;Movie;13;1-2 hour;7.1;9.5;8.7;3.609665427509294;6.350078492935636;1;2019-09-19;8.433333333333332
+Slaughterhouse Rulez;Action;English;Movie;17;1-2 hour;5.3;3.8;3.9;0.0;0.0;1;2019-09-18;4.333333333333333
+Clive Davis: The Soundtrack of Our Lives;Documentary;English;Movie;28;> 2 hrs;7.5;8.0;5.7;3.0;0.0;NAO_DEFINIDO;2019-09-16;7.066666666666666
+We Have Always Lived in the Castle;Drama;English;Movie;1;1-2 hour;5.6;8.7;6.3;1.0;0.0;NAO_DEFINIDO;2019-09-14;6.866666666666666
+Unbroken: Path to Redemption;Biography;English, Italian;Movie;10;1-2 hour;5.8;3.8;3.9;0.0;5.0;1;2019-09-14;4.5
+The Battleship Island;Action;Korean, Japanese;Movie;1;> 2 hrs;7.1;6.4;6.0;8.0;11.0;1;2019-09-13;6.5
+Real;Action;English, Ukrainian;Movie;1;> 2 hrs;7.1;6.0;5.6;2.0;6.0;2;2019-09-13;6.233333333333333
+A Taxi Driver;Action;Korean, German, English, Japanese;Movie;2;> 2 hrs;7.9;9.6;6.9;3.609665427509294;6.350078492935636;1;2019-09-13;8.133333333333333
+Lets Go, JETS! From Small Town Girls to U.S. Champions?!;Crime;Swedish, Spanish;Movie;1;> 2 hrs;7.9;9.8;8.2;3.609665427509294;6.350078492935636;1;2019-09-13;8.633333333333335
+Evelyn;Drama;English;Movie;36;1-2 hour;7.0;6.4;5.5;4.0;7.0;1;2019-09-10;6.3
+The Entity;Drama;English;Movie;4;1-2 hour;6.7;6.4;3.5;1.0;1.0;1;2019-09-09;5.533333333333334
+I Still See You;Fantasy;English;Movie;1;1-2 hour;5.8;0.8;3.1;0.0;0.0;1;2019-09-07;3.233333333333334
+Fantastic Beasts: The Crimes of Grindelwald;Adventure;English, French;Movie;12;> 2 hrs;6.6;3.6;5.2;3.0;6.350078492935636;2;2019-09-07;5.133333333333334
+Destination Wedding;Comedy;English, Spanish;Movie;7;1-2 hour;6.0;5.1;4.6;0.0;0.0;NAO_DEFINIDO;2019-09-07;5.233333333333333
+Blinded by the Light;Comedy;English;Movie;1;1-2 hour;6.9;8.9;7.1;2.0;6.0;1;2019-09-06;7.633333333333333
+A Dogs Way Home;Adventure;English;Movie;15;1-2 hour;6.7;5.9;5.0;2.0;0.0;1;2019-09-05;5.866666666666667
+Avengement;Action;English;Movie;24;1-2 hour;6.5;8.4;6.3;0.0;1.0;NAO_DEFINIDO;2019-09-05;7.066666666666667
+Aquaman;Action;English, Russian, Maori, Italian;Movie;12;> 2 hrs;6.9;6.5;5.5;2.0;6.350078492935636;2;2019-09-05;6.3
+Kingsman: The Golden Circle;Action;English, Italian, Swedish;Movie;1;> 2 hrs;6.7;5.1;4.4;2.0;13.0;2;2019-09-04;5.400000000000001
+Homme Less;Documentary;English;Movie;1;1-2 hour;7.2;8.2;6.7;2.0;0.0;NAO_DEFINIDO;2019-09-03;7.366666666666667
+Downrange;Action;English;Movie;1;1-2 hour;5.4;7.1;4.2;0.0;1.0;NAO_DEFINIDO;2019-09-03;5.566666666666667
+Perfectos desconocidos;Comedy;Spanish;Movie;4;1-2 hour;6.6;8.1;6.3;0.0;0.0;NAO_DEFINIDO;2019-09-01;7.0
+Wonder Wheel;Drama;English;Movie;1;1-2 hour;6.2;3.2;4.5;4.0;4.0;1;2019-09-01;4.633333333333333
+Elena;Documentary;Portuguese, English;Movie;12;1-2 hour;7.6;8.1;8.1;11.0;9.0;1;2019-09-01;7.933333333333333
+Hell Fest;Horror;English;Movie;4;1-2 hour;5.5;4.0;2.6;1.0;0.0;1;2019-08-28;4.033333333333333
+Halloween;Crime;English;Movie;13;1-2 hour;6.5;7.9;6.7;3.0;6.350078492935636;2;2019-08-22;7.033333333333334
+American Factory;Documentary;English, Mandarin;Movie;36;1-2 hour;7.4;9.6;8.6;3.609665427509294;6.350078492935636;NAO_DEFINIDO;2019-08-21;8.533333333333333
+Robin Hood;Action;English, Arabic;Movie;9;1-2 hour;5.3;1.5;3.2;0.0;4.0;1;2019-08-20;3.3333333333333335
+Lucky;Comedy;English, Spanish;Movie;1;1-2 hour;7.3;7.7;8.0;3.609665427509294;18.0;1;2019-08-18;7.666666666666667
+First Man;Biography;English;Movie;12;> 2 hrs;7.3;8.7;8.4;3.609665427509294;6.350078492935636;1;2019-08-18;8.133333333333333
+Instant Family;Comedy;English, Spanish;Movie;19;1-2 hour;7.3;8.1;5.7;2.0;5.0;2;2019-08-16;7.033333333333334
+Sextuplets;Comedy;English;Movie;36;1-2 hour;4.4;1.4;2.1;0.0;0.0;NAO_DEFINIDO;2019-08-16;2.6333333333333333
+Escape Room;Action;English;Movie;15;1-2 hour;6.4;5.1;4.8;1.0;7.0;2;2019-08-15;5.433333333333333
+Finding Steve McQueen;Crime;English;Movie;1;1-2 hour;6.2;4.6;5.3;0.0;0.0;NAO_DEFINIDO;2019-08-15;5.366666666666667
+London Fields;Crime;English;Movie;10;1-2 hour;4.1;0.0;1.6;0.0;1.0;1;2019-08-09;1.8999999999999997
+Roll Red Roll;Documentary;English;Movie;35;1-2 hour;7.1;10.0;8.3;6.0;2.0;NAO_DEFINIDO;2019-08-08;8.466666666666667
+Fahrenheit 11/9;Documentary;English;Movie;1;> 2 hrs;7.0;8.2;6.9;3.0;6.0;1;2019-08-07;7.366666666666667
+Screwball;Documentary;English;Movie;36;1-2 hour;7.1;9.4;7.2;2.0;1.0;1;2019-08-05;7.900000000000001
+Mollys Game;Biography;English;Movie;8;> 2 hrs;7.4;8.1;7.1;7.0;6.350078492935636;1;2019-08-05;7.533333333333334
+A Star Is Born;Drama;English;Movie;10;> 2 hrs;7.6;9.0;8.8;3.609665427509294;6.350078492935636;2;2019-08-03;8.466666666666667
+Otherhood;Comedy;English;Movie;36;1-2 hour;6.1;2.3;3.8;1.0;0.0;NAO_DEFINIDO;2019-08-02;4.066666666666666
+Miss Bala;Action;English, Spanish;Movie;14;1-2 hour;5.8;2.1;4.1;0.0;0.0;1;2019-08-02;3.9999999999999996
+Now and Then;Comedy;English;Movie;1;1-2 hour;6.8;3.2;5.0;0.0;1.0;1;2019-08-01;5.0
+Jungle;Action;English, Spanish, German;Movie;1;1-2 hour;6.7;6.0;4.8;2.0;5.0;NAO_DEFINIDO;2019-08-01;5.833333333333333
+The Mercy;Adventure;English, Spanish;Movie;5;1-2 hour;6.0;7.4;6.0;1.0;0.0;1;2019-08-01;6.466666666666666
+The Rider;Drama;English, Spanish, Sioux;Movie;2;1-2 hour;7.4;9.7;9.2;3.609665427509294;6.350078492935636;1;2019-08-01;8.766666666666667
+Sorry to Bother You;Comedy;English;Movie;16;1-2 hour;6.9;9.3;8.0;3.609665427509294;6.350078492935636;1;2019-08-01;8.066666666666668
+Overlord;Action;English, German, French;Movie;20;1-2 hour;6.6;8.1;6.0;2.0;6.0;1;2019-08-01;6.8999999999999995
+The Salesman;Drama;Persian, English;Movie;1;> 2 hrs;7.8;9.6;8.5;3.609665427509294;6.350078492935636;1;2019-08-01;8.633333333333333
+I Still Know What You Did Last Summer;Horror;English;Movie;3;1-2 hour;4.7;0.7;2.1;5.0;7.0;1;2019-08-01;2.5000000000000004
+Bumblebee;Action;English;Movie;23;1-2 hour;6.8;9.1;6.6;2.0;13.0;2;2019-08-01;7.5
+A Brighter Summer Day;Crime;Mandarin, Min Nan, Shanghainese, English;Movie;1;> 2 hrs;8.4;10.0;9.0;10.0;15.0;NAO_DEFINIDO;2019-08-01;9.133333333333333
+Are We Done Yet?;Comedy;English;Movie;36;1-2 hour;4.3;0.8;3.6;0.0;3.0;1;2019-08-01;2.9000000000000004
+Tomorrow When the War Began;Action;English;Series;1;< 30 minutes;6.2;6.4;5.4;8.0;14.0;1;2019-07-27;6.0
+Papillon;Adventure;English, Spanish;Movie;7;> 2 hrs;7.2;5.2;5.1;0.0;0.0;1;2019-07-27;5.833333333333333
+Anna and the Apocalypse;Comedy;English;Movie;3;1-2 hour;6.0;7.7;6.3;9.0;12.0;1;2019-07-26;6.666666666666667
+Replicas;Drama;English;Movie;13;1-2 hour;5.5;1.1;1.9;0.0;1.0;1;2019-07-25;2.8333333333333335
+Darkest Hour;Biography;English, French, German;Movie;2;> 2 hrs;7.4;8.4;7.5;3.609665427509294;6.350078492935636;2;2019-07-25;7.766666666666667
+Unfriended: Dark Web;Horror;English, American Sign Language, Indonesian;Movie;3;1-2 hour;5.9;6.0;5.3;0.0;0.0;1;2019-07-20;5.733333333333333
+Predator 2;Action;English;Movie;7;1-2 hour;6.3;3.1;4.6;1.0;4.0;1;2019-07-19;4.666666666666666
+The Monkey King 3;Action;Mandarin, English;Movie;2;1-2 hour;5.5;3.3;5.1;1.0;4.0;1;2019-07-19;4.633333333333333
+Kamikaze Girls;Comedy;Japanese, French, English;Movie;1;1-2 hour;7.2;6.2;5.6;3.609665427509294;3.0;1;2019-07-19;6.333333333333333
+Johnny English Strikes Again;Action;English, Russian, French, German;Movie;9;1-2 hour;6.2;3.7;3.9;1.0;0.0;1;2019-07-18;4.6000000000000005
+A Simple Favor;Comedy;English;Movie;9;1-2 hour;6.8;8.4;6.7;3.0;4.0;2;2019-07-14;7.3
+Poms;Comedy;English;Movie;5;1-2 hour;5.9;3.5;3.6;0.0;2.0;1;2019-07-13;4.333333333333333
+After;Drama;English;Movie;11;1-2 hour;5.3;1.8;3.0;4.0;0.0;1;2019-07-12;3.366666666666667
+Point Blank;Action;English;Movie;36;1-2 hour;5.7;3.8;3.7;0.0;1.0;NAO_DEFINIDO;2019-07-12;4.3999999999999995
+Cities of Last Things;Crime;Mandarin, English, French;Movie;33;1-2 hour;6.2;8.1;6.6;6.0;6.350078492935636;NAO_DEFINIDO;2019-07-11;6.966666666666666
+Upgrade;Action;English, Dutch;Movie;7;1-2 hour;7.5;8.8;6.7;3.0;6.350078492935636;1;2019-07-06;7.666666666666667
+Vox Lux;Drama;English, Croatian, Chinese;Movie;1;1-2 hour;5.9;6.1;6.7;2.0;12.0;1;2019-07-05;6.233333333333334
+Pitch Perfect 3;Comedy;English, Papiamento;Movie;3;1-2 hour;5.8;2.9;4.0;5.0;9.0;2;2019-07-05;4.233333333333333
+The Possession Of Hannah Grace;Horror;English;Movie;15;1-2 hour;5.2;1.8;3.7;0.0;3.0;1;2019-07-05;3.566666666666667
+North Country;Drama;English;Movie;6;> 2 hrs;7.3;6.9;6.8;6.0;19.0;1;2019-07-01;7.0
+War for the Planet of the Apes;Action;English, American Sign Language;Movie;2;> 2 hrs;7.4;9.4;8.2;3.609665427509294;6.350078492935636;2;2019-07-01;8.333333333333334
+Dead Calm;Horror;English;Movie;2;1-2 hour;6.8;8.3;7.0;5.0;6.0;1;2019-07-01;7.366666666666667
+Basmati Blues;Comedy;English;Movie;1;1-2 hour;3.6;1.0;3.0;0.0;0.0;NAO_DEFINIDO;2019-07-01;2.533333333333333
+Executive Decision;Action;English, Arabic;Movie;5;> 2 hrs;6.4;6.5;6.2;2.0;2.0;2;2019-07-01;6.366666666666667
+Creed II;Drama;English, Russian, Sign Languages;Movie;5;> 2 hrs;7.1;8.3;6.6;1.0;12.0;2;2019-06-29;7.333333333333333
+Three Identical Strangers;Documentary;English;Movie;14;1-2 hour;7.6;9.7;8.1;11.0;6.350078492935636;1;2019-06-29;8.466666666666667
+Shaft;Action;English;Movie;34;1-2 hour;6.4;3.3;4.0;0.0;0.0;1;2019-06-28;4.566666666666666
+Family Business;Crime;English;Series;36;< 30 minutes;5.8;3.8;5.4;0.0;0.0;1;2019-06-28;5.0
+Spider-Man: Into the Spider-Verse;Animation;English, Spanish;Movie;15;1-2 hour;8.4;9.7;8.7;3.609665427509294;6.350078492935636;2;2019-06-28;8.933333333333334
+Unbroken;Action;English, Japanese, Italian;Movie;18;1-2 hour;7.2;5.1;5.9;3.609665427509294;6.350078492935636;2;2019-06-26;6.066666666666667
+The Front Line;Action;Korean, English;Movie;1;> 2 hrs;7.4;6.7;5.9;3.609665427509294;6.350078492935636;1;2019-06-24;6.666666666666667
+Jules and Jim;Drama;French, German, English;Movie;1;1-2 hour;7.8;9.3;9.7;3.0;4.0;1;2019-06-22;8.933333333333334
+Beats;Comedy;English;Movie;36;1-2 hour;7.1;9.8;7.4;5.0;9.0;NAO_DEFINIDO;2019-06-19;8.1
+The Edge of Democracy;Documentary;Portuguese, English;Movie;36;> 2 hrs;7.2;9.7;8.1;3.0;14.0;NAO_DEFINIDO;2019-06-19;8.333333333333334
+The Nun;Horror;English, French, Romanian, Latin;Movie;8;1-2 hour;5.3;2.5;4.6;2.0;1.0;2;2019-06-19;4.133333333333333
+Smallfoot;Animation;English, Mandarin;Movie;9;1-2 hour;6.6;7.6;6.0;1.0;15.0;2;2019-06-19;6.733333333333333
+Its the Law;Horror;English, Hebrew;Movie;1;1-2 hour;7.3;8.6;6.9;8.0;6.350078492935636;1;2019-06-19;7.599999999999999
+Big Kill;Action;English;Movie;2;> 2 hrs;5.3;2.2;4.2;1.0;0.0;NAO_DEFINIDO;2019-06-18;3.9
+Roman Holiday;Comedy;English, Italian, German;Movie;1;1-2 hour;8.0;9.7;7.8;11.0;16.0;NAO_DEFINIDO;2019-06-17;8.5
+Little Italy;Comedy;English, Italian, Latin;Movie;6;1-2 hour;5.7;1.4;2.8;0.0;0.0;1;2019-06-15;3.3000000000000003
+Gifted;Drama;English;Movie;3;1-2 hour;7.6;7.3;6.0;6.0;7.0;1;2019-06-15;6.966666666666666
+Murder Mystery;Action;English, French, Latin, Spanish;Movie;36;1-2 hour;6.0;4.4;3.8;1.0;6.0;NAO_DEFINIDO;2019-06-14;4.733333333333333
+Professor Marston and the Wonder Women;Biography;English;Movie;2;1-2 hour;7.1;8.7;6.8;0.0;8.0;1;2019-06-14;7.533333333333332
+BlacKkKlansman;Biography;English;Movie;9;> 2 hrs;7.5;9.6;8.3;3.609665427509294;6.350078492935636;1;2019-06-13;8.466666666666667
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese;Documentary;English;Movie;36;> 2 hrs;7.6;9.2;8.6;2.0;12.0;NAO_DEFINIDO;2019-06-12;8.466666666666667
+Crazy Rich Asians;Comedy;English, Mandarin, Cantonese, Hokkien, French, Malay;Movie;7;> 2 hrs;6.9;9.1;7.4;3.609665427509294;6.350078492935636;2;2019-06-12;7.8
+Mamma Mia! Here We Go Again;Comedy;English, French, Greek;Movie;7;1-2 hour;6.6;7.9;6.0;0.0;12.0;2;2019-06-08;6.833333333333333
+The Black Godfather;Documentary;English;Movie;36;1-2 hour;7.4;10.0;6.9;4.0;5.0;NAO_DEFINIDO;2019-06-07;8.1
+I Am Mother;Drama;English;Movie;32;1-2 hour;6.7;9.1;6.4;4.0;5.0;NAO_DEFINIDO;2019-06-07;7.400000000000001
+Freezers Campaign;Action;English;Movie;36;1-2 hour;5.2;3.3;4.0;0.0;0.0;NAO_DEFINIDO;2019-06-06;4.166666666666667
+Its Okay, Buddy;Horror;English, Hebrew;Movie;34;1-2 hour;7.3;8.6;6.9;8.0;6.350078492935636;1;2019-06-05;7.599999999999999
+Dr. Seuss The Grinch;Animation;English;Movie;17;1-2 hour;6.3;5.9;5.1;1.0;18.0;2;2019-06-05;5.766666666666666
+Climax;Drama;French, English;Movie;6;1-2 hour;7.0;6.8;6.7;5.0;8.0;1;2019-06-05;6.833333333333333
+The Female Brain;Comedy;English;Movie;4;1-2 hour;5.8;3.5;4.1;0.0;0.0;1;2019-06-05;4.466666666666666
+Happy Death Day;Comedy;English;Movie;3;1-2 hour;6.6;7.1;5.8;0.0;3.0;2;2019-06-05;6.5
+The Quake;Action;Norwegian;Movie;1;1-2 hour;6.2;8.5;7.0;2.0;7.0;1;2019-06-01;7.233333333333333
+Speed Kills;Action;English, Spanish;Movie;1;1-2 hour;4.2;0.0;1.9;2.0;0.0;NAO_DEFINIDO;2019-06-01;2.033333333333333
+Then Came You;Adventure;;Movie;3;1-2 hour;7.0;5.9;4.4;0.0;0.0;NAO_DEFINIDO;2019-06-01;5.766666666666667
+Marrowbone;Drama;English;Movie;6;1-2 hour;6.7;4.9;6.3;2.0;2.0;1;2019-06-01;5.966666666666666
+Peppermint;Action;English, Spanish;Movie;9;1-2 hour;6.5;1.2;2.9;0.0;4.0;1;2019-06-01;3.533333333333333
+The Post;Drama;English;Movie;16;1-2 hour;7.2;8.8;8.3;3.609665427509294;6.350078492935636;2;2019-06-01;8.1
+The Big Sick;Comedy;English, Urdu;Movie;2;1-2 hour;7.5;9.8;8.6;3.609665427509294;6.350078492935636;1;2019-06-01;8.633333333333335
+All the Money in the World;Biography;English, Italian, Arabic;Movie;13;> 2 hrs;6.8;8.0;7.2;0.0;15.0;1;2019-06-01;7.333333333333333
+Trading Paint;Action;English;Movie;1;1-2 hour;4.4;0.0;3.4;1.0;0.0;NAO_DEFINIDO;2019-06-01;2.6
+Buena Vista Social Club: Adios;Documentary;English, Spanish;Movie;1;1-2 hour;6.9;7.0;6.7;0.0;0.0;1;2019-06-01;6.866666666666667
+Blindspotting;Comedy;English;Movie;1;1-2 hour;7.4;9.4;7.7;7.0;18.0;1;2019-06-01;8.166666666666666
+Always Be My Maybe;Comedy;English;Movie;36;1-2 hour;6.8;8.9;6.4;1.0;2.0;NAO_DEFINIDO;2019-05-31;7.366666666666667
+Hunter Killer;Action;English, Russian;Movie;5;> 2 hrs;6.6;3.7;4.3;1.0;0.0;1;2019-05-29;4.866666666666666
+The Meg;Action;English, Mandarin, Thai, Japanese;Movie;8;1-2 hour;5.6;4.5;4.6;4.0;6.0;2;2019-05-28;4.8999999999999995
+Hotel Artemis;Action;English, French;Movie;10;1-2 hour;6.1;5.8;5.8;1.0;1.0;1;2019-05-25;5.8999999999999995
+Booksmart;Comedy;English, Mandarin, Spanish;Movie;4;1-2 hour;7.2;9.6;8.4;3.609665427509294;6.350078492935636;1;2019-05-24;8.4
+Mission: Impossible - Fallout;Action;English, French;Movie;13;> 2 hrs;7.7;9.7;8.6;3.609665427509294;6.350078492935636;2;2019-05-21;8.666666666666666
+Ben Is Back;Drama;English;Movie;1;1-2 hour;6.7;8.2;6.6;2.0;10.0;1;2019-05-20;7.166666666666667
+Agatha Christies Crooked House;Crime;English;Movie;3;1-2 hour;6.3;5.7;5.9;2.0;1.0;NAO_DEFINIDO;2019-05-20;5.966666666666666
+Matangi/Maya/M.I.A.;Documentary;English;Movie;1;1-2 hour;7.6;8.9;7.0;4.0;11.0;1;2019-05-17;7.833333333333333
+See You Yesterday;Action;English;Movie;36;1-2 hour;5.2;9.5;7.4;2.0;2.0;NAO_DEFINIDO;2019-05-17;7.366666666666667
+Support the Girls;Comedy;English;Movie;1;1-2 hour;6.4;9.1;8.5;8.0;19.0;1;2019-05-15;8.0
+RBG;Documentary;English, Italian, German, French;Movie;6;1-2 hour;7.6;9.3;7.1;3.609665427509294;6.350078492935636;1;2019-05-15;8.0
+Atomic Blonde;Action;English, German, Russian, Swedish;Movie;9;1-2 hour;6.7;7.8;6.3;10.0;18.0;2;2019-05-15;6.933333333333334
+Kin;Action;English;Movie;3;1-2 hour;5.8;3.4;3.5;0.0;3.0;1;2019-05-12;4.233333333333333
+The Snowman;Crime;English, Russian;Movie;4;1-2 hour;5.1;0.7;2.3;0.0;1.0;1;2019-05-12;2.6999999999999997
+Skyscraper;Action;English, Cantonese, Mandarin;Movie;9;1-2 hour;5.8;4.8;5.1;0.0;4.0;2;2019-05-11;5.233333333333333
+Breaking In;Action;English;Movie;7;1-2 hour;5.5;2.7;4.2;1.0;1.0;1;2019-05-11;4.133333333333333
+Wine Country;Adventure;English;Movie;36;1-2 hour;5.4;6.6;5.6;0.0;1.0;NAO_DEFINIDO;2019-05-10;5.866666666666667
+The Day He Arrives;Comedy;Korean;Movie;1;1-2 hour;7.0;9.1;8.3;3.0;5.0;1;2019-05-10;8.133333333333333
+Sgt. Stubby: An American Hero;Animation;English, French, German;Movie;1;1-2 hour;6.9;8.9;5.8;3.609665427509294;7.0;1;2019-05-10;7.2
+Okis Movie;Comedy;Korean;Movie;1;1-2 hour;6.8;8.2;7.8;5.0;3.0;NAO_DEFINIDO;2019-05-10;7.599999999999999
+Lovely, Still;Drama;English;Movie;1;1-2 hour;7.1;7.3;5.7;0.0;3.0;1;2019-05-10;6.7
+Mapplethorpe: Look at the Pictures;Documentary;English;Movie;1;1-2 hour;7.5;9.7;7.5;0.0;10.0;NAO_DEFINIDO;2019-05-10;8.233333333333333
+Liz and the Blue Bird;Animation;Japanese, English;Movie;1;1-2 hour;7.2;8.2;6.7;1.0;4.0;1;2019-05-10;7.366666666666667
+Bathtubs Over Broadway;Documentary;English;Movie;9;1-2 hour;7.5;10.0;7.8;3.609665427509294;13.0;NAO_DEFINIDO;2019-05-09;8.433333333333334
+Mid90s;Comedy;English;Movie;3;1-2 hour;7.4;8.0;6.6;4.0;10.0;1;2019-05-08;7.333333333333333
+Blue Iguana;Action;English;Movie;1;1-2 hour;5.6;3.9;3.0;0.0;0.0;NAO_DEFINIDO;2019-05-08;4.166666666666667
+The Haunting of Sharon Tate;Drama;English;Movie;2;1-2 hour;2.8;1.9;0.8;4.0;4.0;NAO_DEFINIDO;2019-05-04;1.8333333333333333
+Extremely Wicked, Shockingly Evil and Vile;Biography;English;Movie;18;1-2 hour;6.6;5.4;5.2;5.0;5.0;NAO_DEFINIDO;2019-05-03;5.733333333333334
+Diary of a Wimpy Kid: The Long Haul;Comedy;English, Spanish;Movie;2;1-2 hour;4.3;1.8;3.9;0.0;1.0;1;2019-05-02;3.3333333333333335
+Prospect;Drama;English;Movie;7;1-2 hour;6.3;8.8;6.8;6.0;10.0;NAO_DEFINIDO;2019-05-02;7.3
+The Little Stranger;Drama;English;Movie;15;1-2 hour;5.5;6.5;6.7;0.0;3.0;1;2019-05-01;6.233333333333333
+Wildlife;Drama;English;Movie;3;1-2 hour;6.8;9.3;8.0;6.0;6.350078492935636;1;2019-05-01;8.033333333333333
+Elliot the Littlest Reindeer;Animation;English;Movie;3;1-2 hour;5.1;2.9;3.8;0.0;0.0;1;2019-05-01;3.933333333333333
+Knock Down The House;Documentary;English;Movie;35;1-2 hour;7.1;9.9;8.0;6.0;11.0;NAO_DEFINIDO;2019-05-01;8.333333333333334
+White Boy Rick;Crime;English;Movie;15;1-2 hour;6.5;5.7;5.9;0.0;1.0;1;2019-05-01;6.033333333333334
+The Wandering Earth;Action;Mandarin, English, Russian, French, Japanese, Korean, Indonesian, Hindi;Movie;36;> 2 hrs;6.0;7.0;5.7;3.609665427509294;6.350078492935636;1;2019-04-30;6.233333333333333
+The Hateful Eight: Extended Version;Crime;English, Spanish, French;Series;1;< 30 minutes;7.8;7.4;6.8;3.609665427509294;6.350078492935636;2;2019-04-25;7.333333333333333
+Goosebumps 2: Haunted Halloween;Adventure;English;Movie;9;1-2 hour;5.6;4.7;5.3;0.0;0.0;1;2019-04-25;5.199999999999999
+The First Purge;Action;English, French, Spanish;Movie;7;1-2 hour;5.2;5.6;5.4;0.0;1.0;2;2019-04-24;5.400000000000001
+Down a Dark Hall;Drama;English;Movie;8;1-2 hour;5.1;4.8;5.6;0.0;1.0;NAO_DEFINIDO;2019-04-22;5.166666666666667
+Teen Titans Go! To the Movies;Animation;English;Movie;9;1-2 hour;6.8;9.1;6.9;0.0;9.0;1;2019-04-22;7.599999999999999
+Oceans 8;Action;English, Hindi, French, German, Mandarin;Movie;9;1-2 hour;6.8;6.9;6.1;3.0;14.0;2;2019-04-22;6.599999999999999
+The Last Resort;Documentary;English;Movie;1;1-2 hour;7.3;9.2;7.6;0.0;0.0;1;2019-04-21;8.033333333333333
+Time Trap;Action;English;Movie;22;1-2 hour;6.3;5.8;4.6;1.0;1.0;NAO_DEFINIDO;2019-04-21;5.566666666666666
+Siberia;Crime;English, Russian;Movie;6;1-2 hour;4.3;1.2;3.4;0.0;3.0;NAO_DEFINIDO;2019-04-19;2.9666666666666663
+Someone Great;Comedy;English;Movie;36;1-2 hour;6.2;8.2;6.3;0.0;0.0;NAO_DEFINIDO;2019-04-19;6.8999999999999995
+Sheikh Jackson;Drama;Arabic;Movie;1;1-2 hour;7.0;7.5;6.3;1.0;4.0;NAO_DEFINIDO;2019-04-19;6.933333333333334
+Life Itself;Drama;English, Spanish;Movie;3;1-2 hour;6.8;1.3;2.1;2.0;4.0;1;2019-04-17;3.4000000000000004
+Josie;Drama;English;Movie;1;1-2 hour;5.1;1.3;3.1;2.0;0.0;NAO_DEFINIDO;2019-04-17;3.1666666666666665
+Jonathan;Drama;English;Movie;3;1-2 hour;5.9;6.3;6.2;2.0;1.0;NAO_DEFINIDO;2019-04-16;6.133333333333334
+Mile 22;Action;English, Russian, Indonesian, Filipino;Movie;8;1-2 hour;6.1;2.3;3.8;1.0;0.0;1;2019-04-16;4.066666666666666
+The Happytime Murders;Action;English;Movie;6;1-2 hour;5.4;2.4;2.7;2.0;10.0;1;2019-04-16;3.5000000000000004
+Truth or Dare: Extended Directors Cut;Horror;English, Spanish;Movie;7;1-2 hour;5.2;1.6;3.5;1.0;4.0;1;2019-04-16;3.433333333333333
+The New Romantic;Comedy;English;Movie;2;1-2 hour;5.7;6.3;5.5;1.0;3.0;NAO_DEFINIDO;2019-04-15;5.833333333333333
+Blaze;Biography;English;Movie;1;> 2 hrs;6.6;9.5;7.5;4.0;12.0;1;2019-04-15;7.866666666666667
+Thriller;Crime;English;Movie;2;1-2 hour;3.6;4.0;2.8;0.0;0.0;NAO_DEFINIDO;2019-04-14;3.466666666666667
+Buffalo Boys;Action;Indonesian, English;Movie;2;1-2 hour;5.8;7.9;4.8;0.0;1.0;NAO_DEFINIDO;2019-04-12;6.166666666666667
+A Land Imagined;Drama;Bengali, English, Mandarin;Movie;28;1-2 hour;6.3;7.5;5.9;3.609665427509294;14.0;NAO_DEFINIDO;2019-04-12;6.566666666666666
+Tully;Comedy;English;Movie;5;1-2 hour;7.0;8.7;7.5;3.0;6.350078492935636;1;2019-04-10;7.733333333333333
+Blockers;Comedy;English;Movie;7;1-2 hour;6.2;8.4;6.9;1.0;6.0;2;2019-04-10;7.166666666666667
+Mercy Black;Horror;English;Movie;2;1-2 hour;4.9;4.5;4.8;0.0;0.0;NAO_DEFINIDO;2019-04-09;4.733333333333333
+The Oath;Comedy;English;Movie;1;1-2 hour;5.5;6.3;5.8;0.0;0.0;1;2019-04-09;5.866666666666667
+Between Worlds;Fantasy;English;Movie;2;1-2 hour;4.1;3.2;2.4;0.0;0.0;NAO_DEFINIDO;2019-04-08;3.233333333333333
+The Beguiled;Drama;English, French;Movie;2;1-2 hour;6.3;7.9;7.7;5.0;6.350078492935636;1;2019-04-04;7.3
+Jurassic World: Fallen Kingdom;Action;English, Russian;Movie;6;> 2 hrs;6.2;4.7;5.1;4.0;6.350078492935636;2;2019-04-04;5.333333333333333
+Paul, Apostle of Christ;Adventure;English;Movie;8;1-2 hour;6.6;4.6;5.2;3.0;3.0;1;2019-04-03;5.466666666666666
+Leave No Trace;Drama;English;Movie;5;1-2 hour;7.2;10.0;8.8;3.609665427509294;6.350078492935636;1;2019-04-02;8.666666666666666
+Snatched;Action;English, Spanish;Movie;2;1-2 hour;4.5;3.6;4.5;2.0;2.0;1;2019-04-01;4.2
+Novitiate;Drama;English, American Sign Language, Latin;Movie;1;> 2 hrs;6.7;8.6;7.3;5.0;13.0;1;2019-04-01;7.533333333333334
+Just Getting Started;Comedy;English;Movie;5;1-2 hour;4.5;0.4;2.1;0.0;0.0;1;2019-04-01;2.3333333333333335
+Where Hands Touch;Drama;English;Movie;1;> 2 hrs;6.3;4.3;4.4;0.0;3.0;1;2019-04-01;5.0
+Golden Exits;Drama;English;Movie;1;1-2 hour;5.8;6.7;7.1;1.0;6.0;1;2019-04-01;6.533333333333332
+Fonzy;Comedy;French, Spanish;Movie;2;1-2 hour;5.2;6.7;5.5;0.0;0.0;NAO_DEFINIDO;2019-04-01;5.8
+Sicario: Day of the Soldado;Action;English, Spanish, American Sign Language, Arabic, Somali;Movie;9;> 2 hrs;7.1;6.3;6.1;1.0;7.0;2;2019-03-31;6.5
+The Spy Who Dumped Me;Action;English, Russian, French, Lithuanian, German;Movie;5;1-2 hour;6.0;4.9;5.2;3.0;4.0;1;2019-03-31;5.366666666666667
+Black 47;Action;English, Irish;Movie;2;1-2 hour;6.8;7.8;6.5;2.0;5.0;1;2019-03-31;7.033333333333334
+Detroit;Crime;English;Movie;3;> 2 hrs;7.3;8.2;7.7;5.0;19.0;1;2019-03-31;7.733333333333333
+Venom;Action;English, Mandarin, Malay;Movie;7;1-2 hour;6.7;3.0;3.5;3.0;9.0;2;2019-03-29;4.3999999999999995
+McQueen;Documentary;English, French;Movie;1;1-2 hour;7.8;9.9;8.4;1.0;11.0;1;2019-03-29;8.700000000000001
+The Miseducation of Cameron Post;Drama;English;Movie;3;1-2 hour;6.6;8.6;6.9;5.0;15.0;1;2019-03-29;7.366666666666667
+The Legend of Cocaine Island;Documentary;English;Movie;35;1-2 hour;6.3;7.8;4.4;2.0;1.0;NAO_DEFINIDO;2019-03-29;6.166666666666667
+The Highwaymen;Biography;English, Spanish;Movie;36;> 2 hrs;6.9;5.8;5.8;0.0;2.0;NAO_DEFINIDO;2019-03-29;6.166666666666667
+American Made;Action;English, Spanish;Movie;3;1-2 hour;7.2;8.5;6.5;0.0;3.0;2;2019-03-24;7.3999999999999995
+Piercing;Horror;English;Movie;3;1-2 hour;5.6;7.3;6.3;4.0;8.0;1;2019-03-23;6.3999999999999995
+Triple Threat;Action;English, Mandarin, Thai;Movie;7;1-2 hour;5.6;6.9;6.0;0.0;0.0;1;2019-03-22;6.166666666666667
+The Death of Stalin;Comedy;English;Movie;2;1-2 hour;7.2;9.5;8.8;3.609665427509294;6.350078492935636;1;2019-03-22;8.5
+Social Animals;Comedy;English;Movie;4;1-2 hour;5.3;3.8;3.7;0.0;0.0;1;2019-03-19;4.266666666666667
+Slender Man;Horror;English;Movie;6;1-2 hour;3.2;0.8;3.0;0.0;3.0;1;2019-03-18;2.3333333333333335
+The Equalizer 2;Action;English, French, Turkish, Hebrew, Arabic, Spanish;Movie;6;> 2 hrs;6.7;5.1;5.0;1.0;4.0;2;2019-03-18;5.599999999999999
+All About Nina;Comedy;English;Movie;9;1-2 hour;6.1;8.6;7.0;0.0;2.0;1;2019-03-18;7.233333333333333
+Open Grave;Horror;English;Movie;4;1-2 hour;6.2;2.2;3.3;0.0;2.0;NAO_DEFINIDO;2019-03-17;3.9
+Tag;Action;English, Spanish;Movie;6;1-2 hour;6.5;5.6;5.6;0.0;2.0;2;2019-03-16;5.8999999999999995
+Acrimony;Thriller;English;Movie;5;> 2 hrs;5.8;1.7;3.2;1.0;1.0;1;2019-03-15;3.5666666666666664
+Mary Magdalene;Biography;English, Hebrew;Movie;2;1-2 hour;5.9;4.5;4.8;2.0;5.0;1;2019-03-14;5.066666666666666
+Triple Frontier;Action;English, Spanish, Portuguese;Movie;36;> 2 hrs;6.4;7.1;6.1;0.0;3.0;NAO_DEFINIDO;2019-03-13;6.533333333333334
+All Saints;Drama;English;Movie;8;1-2 hour;6.1;9.5;6.3;1.0;1.0;1;2019-03-11;7.3
+River Runs Red;Action;English, Mandarin, Spanish;Movie;1;1-2 hour;4.6;2.2;2.6;3.0;1.0;1;2019-03-10;3.133333333333333
+On Chesil Beach;Drama;English;Movie;1;1-2 hour;6.3;6.8;6.2;0.0;0.0;1;2019-03-10;6.433333333333334
+Serenity;Drama;English, French;Movie;4;1-2 hour;5.4;2.0;3.7;3.0;5.0;1;2019-03-09;3.7000000000000006
+In a Relationship;Comedy;English;Movie;4;1-2 hour;5.5;6.0;5.1;0.0;0.0;NAO_DEFINIDO;2019-03-09;5.533333333333334
+The Solutrean;Action;English;Movie;7;1-2 hour;6.7;8.0;6.3;1.0;0.0;1;2019-03-08;7.0
+Pacific Rim: Uprising;Action;English, Mandarin, Russian;Movie;5;1-2 hour;5.6;4.3;4.4;0.0;6.0;2;2019-03-04;4.766666666666667
+The Dawn Wall;Documentary;English;Movie;36;1-2 hour;8.1;10.0;8.1;6.0;6.0;1;2019-03-04;8.733333333333333
+I Am;Documentary;English;Movie;17;1-2 hour;7.5;3.6;3.8;2.0;0.0;1;2019-03-03;4.966666666666667
+Pick of the Litter;Documentary;English;Movie;2;1-2 hour;7.5;9.7;6.4;8.0;4.0;1;2019-03-01;7.866666666666667
+Eighth Grade;Comedy;English;Movie;8;1-2 hour;7.4;9.9;8.9;3.609665427509294;6.350078492935636;1;2019-03-01;8.733333333333334
+The Boy Who Harnessed the Wind;Biography;Arabic, Nyanja, English;Movie;34;1-2 hour;7.6;8.6;6.8;3.0;5.0;NAO_DEFINIDO;2019-03-01;7.666666666666667
+All the Devils Men;Action;English;Movie;2;1-2 hour;5.1;2.3;2.7;0.0;0.0;NAO_DEFINIDO;2019-03-01;3.3666666666666667
+How to Talk to Girls at Parties;Comedy;English;Movie;4;1-2 hour;5.7;4.8;5.0;0.0;9.0;1;2019-03-01;5.166666666666667
+How to Be a Latin Lover;Comedy;English, Spanish;Movie;5;1-2 hour;6.0;3.9;5.4;2.0;2.0;1;2019-03-01;5.1000000000000005
+Isnt It Romantic;Comedy;English;Movie;34;1-2 hour;5.9;7.0;6.0;1.0;8.0;1;2019-02-28;6.3
+Bad Samaritan;Crime;English;Movie;2;1-2 hour;6.5;5.3;4.2;0.0;1.0;1;2019-02-28;5.333333333333333
+Searching;Drama;English;Movie;5;1-2 hour;7.6;9.2;7.1;6.0;10.0;1;2019-02-27;7.966666666666666
+Second Act;Comedy;English, Mandarin;Movie;9;1-2 hour;5.8;4.4;4.6;2.0;1.0;1;2019-02-23;4.933333333333333
+Paddleton;Comedy;English;Movie;36;1-2 hour;7.2;8.8;7.0;0.0;3.0;NAO_DEFINIDO;2019-02-22;7.666666666666667
+Hampstead;Comedy;English;Movie;2;1-2 hour;6.0;4.3;5.3;0.0;0.0;1;2019-02-19;5.2
+Life of the Party;Comedy;English;Movie;2;1-2 hour;5.6;3.8;4.6;3.0;4.0;2;2019-02-18;4.666666666666667
+Studio 54;Documentary;English;Movie;2;1-2 hour;7.0;9.0;7.0;2.0;5.0;1;2019-02-16;7.666666666666667
+Hereditary;Drama;English, Spanish;Movie;5;> 2 hrs;7.3;8.9;8.7;3.609665427509294;6.350078492935636;1;2019-02-15;8.299999999999999
+The Breaker Upperers;Comedy;English;Movie;35;1-2 hour;5.9;8.7;7.6;0.0;1.0;NAO_DEFINIDO;2019-02-15;7.3999999999999995
+Sea of Love;Crime;English;Movie;1;1-2 hour;6.8;7.6;6.6;0.0;4.0;2;2019-02-15;7.0
+Pathfinder;Action;English, Icelandic;Movie;6;1-2 hour;5.4;1.0;2.9;0.0;1.0;1;2019-02-15;3.1
+Magnolia;Drama;English, German, French;Movie;4;> 2 hrs;8.0;8.3;7.7;3.609665427509294;6.350078492935636;1;2019-02-15;8.0
+Elizabeth Harvest;Horror;English;Movie;2;1-2 hour;5.8;5.2;5.4;0.0;2.0;NAO_DEFINIDO;2019-02-14;5.466666666666666
+Hearts Beat Loud;Comedy;English;Movie;1;1-2 hour;6.9;9.2;6.5;3.0;9.0;1;2019-02-14;7.533333333333334
+Welcome Home;Thriller;English;Movie;6;1-2 hour;5.2;1.1;3.8;0.0;0.0;NAO_DEFINIDO;2019-02-12;3.3666666666666667
+I Think Were Alone Now;Drama;English;Movie;1;1-2 hour;5.7;6.3;5.1;2.0;2.0;NAO_DEFINIDO;2019-02-12;5.7
+We the Animals;Drama;English;Movie;2;1-2 hour;6.9;9.2;8.2;3.609665427509294;6.350078492935636;1;2019-02-11;8.1
+God Bless the Broken Road;Drama;English;Movie;1;1-2 hour;5.6;1.7;3.1;0.0;0.0;1;2019-02-09;3.4666666666666663
+High Flying Bird;Drama;English;Movie;36;1-2 hour;6.2;9.1;7.8;0.0;5.0;NAO_DEFINIDO;2019-02-08;7.7
+Bleeding Steel;Action;English, Mandarin;Movie;6;1-2 hour;5.2;2.2;4.3;1.0;0.0;NAO_DEFINIDO;2019-02-05;3.9
+Action Point;Comedy;English;Movie;5;1-2 hour;5.1;1.5;3.6;0.0;0.0;1;2019-02-04;3.4
+7 Days in Entebbe;Action;English, German, French, Hebrew, Arabic;Movie;4;1-2 hour;5.8;2.4;4.9;0.0;0.0;1;2019-02-03;4.366666666666666
+Maudie;Biography;English;Movie;4;1-2 hour;7.6;8.9;6.5;3.609665427509294;17.0;1;2019-02-03;7.666666666666667
+Dances with Wolves;Adventure;English, Sioux, Pawnee;Movie;1;> 2 hrs;8.0;8.3;7.2;3.609665427509294;6.350078492935636;2;2019-02-01;7.833333333333333
+Casino Royale;Action;English, Serbian, German, Italian, French;Movie;1;> 2 hrs;8.0;9.4;8.0;3.609665427509294;6.350078492935636;2;2019-02-01;8.466666666666667
+Wont You Be My Neighbor?;Documentary;English;Movie;18;1-2 hour;8.4;9.7;8.5;3.609665427509294;6.350078492935636;1;2019-02-01;8.866666666666665
+Boo! A Madea Halloween;Comedy;English;Movie;6;1-2 hour;4.6;1.9;3.0;0.0;6.0;2;2019-02-01;3.1666666666666665
+Velvet Buzzsaw;Horror;English, Chinese, Italian;Movie;36;1-2 hour;5.7;6.1;6.1;1.0;2.0;NAO_DEFINIDO;2019-02-01;5.966666666666666
+Believer;Action;Korean;Movie;1;> 2 hrs;6.5;8.3;5.8;7.0;6.350078492935636;1;2019-02-01;6.866666666666667
+Alt-Right: Age of Rage;Documentary;English;Movie;2;1-2 hour;5.9;8.8;6.7;0.0;4.0;NAO_DEFINIDO;2019-01-28;7.133333333333334
+An Evening with Beverly Luff Linn;Comedy;English;Movie;1;1-2 hour;5.8;5.2;5.4;0.0;5.0;1;2019-01-28;5.466666666666666
+Polar;Action;English, Russian;Movie;35;1-2 hour;6.3;1.9;1.9;0.0;1.0;NAO_DEFINIDO;2019-01-25;3.3666666666666667
+Kingdom;Action;Japanese;Series;36;< 30 minutes;6.6;9.4;6.2;3.0;7.0;NAO_DEFINIDO;2019-01-25;7.400000000000001
+Thank You for Your Service;Biography;English;Movie;4;1-2 hour;6.6;7.7;6.8;1.0;1.0;1;2019-01-25;7.033333333333332
+Hotel Transylvania 3: Summer Vacation;Animation;English, Spanish, German, Russian;Movie;6;1-2 hour;6.3;6.2;5.4;2.0;9.0;2;2019-01-24;5.966666666666666
+Gotti;Biography;English;Movie;2;1-2 hour;4.8;0.0;2.4;0.0;7.0;1;2019-01-24;2.4
+Rampage;Action;English, American Sign Language;Movie;6;1-2 hour;6.1;5.2;4.5;0.0;7.0;2;2019-01-24;5.266666666666667
+What Keeps You Alive;Horror;English;Movie;8;1-2 hour;5.7;8.2;6.6;1.0;5.0;NAO_DEFINIDO;2019-01-23;6.833333333333333
+The Spy Gone North;Drama;Korean, Mandarin, Japanese;Movie;1;> 2 hrs;7.3;10.0;6.9;3.609665427509294;6.350078492935636;1;2019-01-23;8.066666666666666
+Ready Player One;Action;English;Movie;7;> 2 hrs;7.5;7.2;6.4;11.0;6.350078492935636;2;2019-01-23;7.033333333333334
+Book Club;Comedy;English, Hungarian, Spanish, French;Movie;2;1-2 hour;6.1;5.4;5.3;2.0;3.0;2;2019-01-21;5.599999999999999
+The Bullet Vanishes;Action;Mandarin, Cantonese;Movie;22;1-2 hour;6.6;9.2;6.5;4.0;18.0;1;2019-01-20;7.433333333333333
+Soni;Drama;Hindi;Movie;36;1-2 hour;7.1;8.8;6.8;4.0;5.0;NAO_DEFINIDO;2019-01-18;7.566666666666666
+IO;Adventure;English;Movie;35;1-2 hour;4.7;3.1;4.0;0.0;1.0;NAO_DEFINIDO;2019-01-18;3.933333333333333
+FYRE: The Greatest Party That Never Happened;Documentary;English;Movie;36;1-2 hour;7.2;9.2;7.5;0.0;5.0;NAO_DEFINIDO;2019-01-18;7.966666666666666
+The Last Laugh;Comedy;English;Movie;35;1-2 hour;5.6;5.3;3.1;0.0;0.0;NAO_DEFINIDO;2019-01-11;4.666666666666667
+And Breathe Normally;Drama;Icelandic, English;Movie;13;1-2 hour;6.9;9.3;7.7;8.0;6.350078492935636;NAO_DEFINIDO;2019-01-04;7.966666666666668
+Pope Francis: A Man of His Word;Documentary;Italian, Spanish, German, English;Movie;6;1-2 hour;6.3;8.2;6.3;1.0;4.0;1;2019-01-03;6.933333333333333
+Occupation;Action;English;Movie;1;1-2 hour;4.8;5.0;4.5;1.0;0.0;NAO_DEFINIDO;2019-01-03;4.766666666666667
+A Quiet Place;Drama;American Sign Language, English;Movie;4;1-2 hour;7.5;9.6;8.2;3.609665427509294;6.350078492935636;2;2019-01-02;8.433333333333332
+Adrift;Action;English, French;Movie;11;1-2 hour;6.6;6.9;5.6;0.0;6.0;1;2019-01-01;6.366666666666667
+The Witches;Adventure;English;Movie;6;1-2 hour;6.9;9.3;7.8;3.0;8.0;1;2019-01-01;8.0
+Ideal Home;Comedy;English;Movie;1;1-2 hour;6.4;6.7;6.2;2.0;2.0;NAO_DEFINIDO;2019-01-01;6.433333333333334
+Black Water;Action;English;Movie;1;1-2 hour;4.7;0.0;1.6;0.0;1.0;NAO_DEFINIDO;2019-01-01;2.1
+The Book of Henry;Crime;English;Movie;2;1-2 hour;6.6;2.2;3.1;1.0;3.0;1;2019-01-01;3.9666666666666663
+Brawl in Cell Block 99;Action;English;Movie;3;> 2 hrs;7.1;9.0;7.9;0.0;4.0;NAO_DEFINIDO;2019-01-01;8.0
+Traffik;Thriller;English;Movie;9;1-2 hour;6.0;2.7;3.7;0.0;3.0;1;2018-12-31;4.133333333333333
+Death Wish (2018);Action;English, Spanish;Movie;8;1-2 hour;6.4;1.8;3.1;0.0;4.0;1;2018-12-31;3.766666666666667
+Every Day;Drama;English;Movie;6;1-2 hour;6.4;6.3;5.2;0.0;1.0;1;2018-12-31;5.966666666666668
+Rupture;Horror;English;Movie;1;1-2 hour;4.8;1.8;3.5;1.0;0.0;NAO_DEFINIDO;2018-12-31;3.366666666666667
+The Catcher Was a Spy;Biography;English, German, Italian, Japanese, French, Hebrew;Movie;1;1-2 hour;6.2;3.2;4.9;0.0;0.0;1;2018-12-30;4.766666666666667
+Overboard (2018);Comedy;English, Norwegian, Spanish, French;Movie;1;1-2 hour;6.0;2.4;4.2;3.0;10.0;2;2018-12-27;4.2
+Early Man;Animation;English;Movie;10;1-2 hour;6.1;8.0;6.8;1.0;10.0;1;2018-12-27;6.966666666666666
+Game Night;Action;English;Movie;5;1-2 hour;6.9;8.5;6.6;4.0;19.0;2;2018-12-25;7.333333333333333
+Midnight Sun;Drama;English;Movie;8;1-2 hour;6.6;2.1;3.8;0.0;9.0;1;2018-12-23;4.166666666666666
+Wildling;Drama;English;Movie;2;1-2 hour;5.5;7.0;5.8;0.0;0.0;NAO_DEFINIDO;2018-12-23;6.1000000000000005
+Bird Box;Horror;English;Movie;36;> 2 hrs;6.6;6.4;5.1;5.0;8.0;NAO_DEFINIDO;2018-12-21;6.033333333333334
+The Indian in the Cupboard;Drama;English;Movie;1;1-2 hour;6.0;7.3;5.8;1.0;6.0;1;2018-12-20;6.366666666666667
+The Mummy;Action;English, Egyptian (Ancient);Movie;3;1-2 hour;5.4;1.6;3.4;6.0;17.0;2;2018-12-20;3.466666666666667
+Tomb Raider;Action;English, Cantonese, Hindi;Movie;1;1-2 hour;6.3;5.1;4.8;0.0;7.0;2;2018-12-16;5.3999999999999995
+Klovn Forever;Comedy;Danish, English;Movie;1;1-2 hour;6.3;5.9;5.7;1.0;1.0;1;2018-12-15;5.966666666666666
+Beijing Love Story;Drama;Mandarin;Movie;4;> 2 hrs;5.7;3.3;4.4;7.0;11.0;1;2018-12-14;4.466666666666668
+Goldstone;Crime;English, Mandarin;Movie;1;1-2 hour;6.5;7.6;7.8;10.0;16.0;1;2018-12-10;7.3
+AllI Wish;Comedy;English;Movie;1;1-2 hour;5.2;1.8;4.9;1.0;0.0;NAO_DEFINIDO;2018-12-07;3.9666666666666672
+The American Meme;Documentary;English;Movie;36;1-2 hour;7.0;9.4;6.0;0.0;0.0;NAO_DEFINIDO;2018-12-07;7.466666666666666
+Mowgli: Legend of the Jungle;Adventure;English, Hindi;Movie;35;1-2 hour;6.5;5.2;5.1;0.0;7.0;NAO_DEFINIDO;2018-12-07;5.6000000000000005
+The Dirty Dozen;Action;English, German, French, Spanish, Latin;Movie;5;> 2 hrs;7.7;7.9;7.3;4.0;9.0;NAO_DEFINIDO;2018-12-06;7.633333333333333
+Blade Runner: The Final Cut;Action;English, German, Cantonese, Japanese, Hungarian, Arabic;Movie;7;1-2 hour;8.1;9.0;8.4;3.609665427509294;19.0;1;2018-12-06;8.5
+The Cakemaker;Drama;English, Hebrew, German;Movie;1;1-2 hour;7.2;9.8;7.4;3.609665427509294;15.0;1;2018-12-04;8.133333333333335
+Elvis and Nixon;Comedy;English;Movie;1;1-2 hour;6.4;7.7;5.9;2.0;2.0;1;2018-12-02;6.666666666666667
+Tiny Times 2;Drama;Mandarin;Movie;3;< 30 minutes;3.3;2.6;4.0;0.0;0.0;1;2018-12-01;3.3000000000000003
+Gringo;Action;English, Spanish, French, Yoruba;Movie;10;1-2 hour;6.1;4.0;4.6;0.0;2.0;1;2018-12-01;4.8999999999999995
+The Bookshop;Drama;English;Movie;5;1-2 hour;6.5;5.6;6.2;3.609665427509294;6.350078492935636;1;2018-12-01;6.099999999999999
+The Strangers: Prey At Night;Horror;English;Movie;8;1-2 hour;5.2;3.9;4.8;0.0;0.0;1;2018-12-01;4.633333333333334
+The Miracle Season;Drama;English;Movie;1;1-2 hour;6.5;5.1;4.4;0.0;1.0;1;2018-12-01;5.333333333333333
+Suspiria;Horror;Italian, Russian, English, German, Latin;Movie;1;1-2 hour;7.4;9.3;7.9;0.0;3.0;NAO_DEFINIDO;2018-12-01;8.200000000000001
+Summer of 84;Drama;English;Movie;3;1-2 hour;6.7;7.2;5.7;1.0;5.0;NAO_DEFINIDO;2018-12-01;6.533333333333334
+Dark Crimes;Crime;English;Movie;2;1-2 hour;4.7;0.0;2.4;0.0;0.0;NAO_DEFINIDO;2018-12-01;2.3666666666666667
+Aliens vs. Predator 2;Action;English;Movie;7;1-2 hour;4.7;1.2;2.9;0.0;4.0;1;2018-11-30;2.933333333333333
+Greater;Biography;English;Movie;1;> 2 hrs;7.3;6.7;3.5;0.0;0.0;1;2018-11-27;5.833333333333333
+Social Animals;Comedy;English;Movie;3;1-2 hour;5.3;3.8;3.7;0.0;0.0;1;2018-11-26;4.266666666666667
+The Christmas Chronicles;Adventure;English, Spanish, French, Romanian;Movie;36;1-2 hour;7.0;6.7;5.2;0.0;2.0;NAO_DEFINIDO;2018-11-22;6.3
+Hangman;Crime;English;Movie;2;1-2 hour;5.3;0.4;3.1;0.0;0.0;NAO_DEFINIDO;2018-11-18;2.9333333333333336
+Braven;Action;English;Movie;4;1-2 hour;5.9;7.7;6.1;0.0;0.0;NAO_DEFINIDO;2018-11-16;6.566666666666666
+The Ballad of Buster Scruggs;Comedy;English, French;Movie;36;> 2 hrs;7.3;8.9;7.9;7.0;6.350078492935636;NAO_DEFINIDO;2018-11-16;8.033333333333333
+Police Story 2;Action;Cantonese;Movie;4;> 2 hrs;7.1;8.3;6.8;2.0;1.0;NAO_DEFINIDO;2018-11-16;7.3999999999999995
+Last Days in the Desert;Adventure;English;Movie;3;1-2 hour;5.6;7.6;6.7;0.0;1.0;NAO_DEFINIDO;2018-11-16;6.633333333333333
+A Better Tomorrow;Action;Cantonese, Mandarin, English;Movie;4;1-2 hour;7.5;9.3;7.8;6.0;14.0;NAO_DEFINIDO;2018-11-16;8.200000000000001
+A Gentle Creature;Drama;Russian, French;Movie;1;> 2 hrs;6.6;7.6;7.8;2.0;13.0;NAO_DEFINIDO;2018-11-15;7.333333333333333
+6 Below: Miracle on the Mountain;Adventure;English;Movie;2;1-2 hour;5.7;2.2;4.0;0.0;0.0;1;2018-11-13;3.9666666666666663
+BuyBust;Action;Filipino, Tagalog;Movie;36;> 2 hrs;5.8;8.3;6.8;8.0;6.350078492935636;1;2018-11-13;6.966666666666666
+Outlaw King;Action;English, French, Scottish Gaelic, Latin;Movie;36;> 2 hrs;6.9;6.1;5.9;0.0;2.0;NAO_DEFINIDO;2018-11-09;6.3
+The 15:17 to Paris;Biography;English, French, Arabic, German, Dutch;Movie;5;1-2 hour;5.3;2.3;4.5;1.0;3.0;1;2018-11-07;4.033333333333334
+The Other Side of the Wind;Drama;English, German;Movie;36;> 2 hrs;6.8;8.4;7.8;9.0;9.0;NAO_DEFINIDO;2018-11-02;7.666666666666667
+I Do...Until I Dont;Comedy;English;Movie;1;1-2 hour;4.2;2.8;4.3;0.0;0.0;1;2018-11-01;3.766666666666667
+Ethel and Ernest;Animation;English, German, French;Movie;1;1-2 hour;7.8;9.7;7.2;3.0;8.0;NAO_DEFINIDO;2018-11-01;8.233333333333333
+Disobedience;Drama;English, Hebrew;Movie;3;1-2 hour;6.6;8.4;7.4;4.0;6.350078492935636;1;2018-11-01;7.466666666666666
+Forever My Girl;Drama;English;Movie;1;1-2 hour;6.7;2.5;3.6;0.0;0.0;1;2018-11-01;4.266666666666667
+Alien;Horror;English;Movie;2;1-2 hour;8.4;9.8;8.9;3.609665427509294;6.350078492935636;2;2018-11-01;9.033333333333333
+Our House;Drama;English;Movie;23;1-2 hour;5.3;6.2;4.5;0.0;3.0;NAO_DEFINIDO;2018-11-01;5.333333333333333
+Heneral Luna;Action;Filipino, Tagalog, English, Spanish;Movie;23;1-2 hour;7.5;7.5;5.8;3.609665427509294;19.0;1;2018-11-01;6.933333333333334
+Kai Po Che!;Drama;Hindi;Movie;33;1-2 hour;7.7;7.8;4.0;11.0;6.350078492935636;1;2018-11-01;6.5
+A Kid Like Jake;Drama;English;Movie;4;1-2 hour;5.4;4.9;5.8;0.0;1.0;1;2018-10-27;5.366666666666667
+A.X.L.;Action;English;Movie;4;1-2 hour;5.3;7.0;2.9;0.0;0.0;1;2018-10-27;5.066666666666666
+Dovlatov;Biography;Russian, Spanish, Finnish;Movie;6;> 2 hrs;6.4;8.0;6.8;4.0;9.0;NAO_DEFINIDO;2018-10-26;7.066666666666666
+Shirkers;Documentary;English;Movie;36;1-2 hour;7.4;10.0;8.8;8.0;6.350078492935636;NAO_DEFINIDO;2018-10-26;8.733333333333334
+Been So Long;Drama;;Movie;36;1-2 hour;5.5;9.2;7.4;0.0;1.0;NAO_DEFINIDO;2018-10-26;7.366666666666667
+The Fate of the Furious;Action;English, Russian, Spanish;Movie;4;> 2 hrs;6.7;6.7;5.6;2.0;12.0;2;2018-10-25;6.333333333333333
+Get Out;Horror;English;Movie;3;1-2 hour;7.7;9.8;8.5;3.609665427509294;6.350078492935636;2;2018-10-25;8.666666666666666
+The Cured;Drama;English;Movie;2;1-2 hour;5.5;7.0;5.7;0.0;2.0;1;2018-10-21;6.066666666666666
+Looking Glass;Mystery;English;Movie;4;1-2 hour;4.6;2.1;3.3;0.0;0.0;NAO_DEFINIDO;2018-10-20;3.3333333333333335
+Terminal;Crime;English;Movie;4;1-2 hour;5.4;2.1;2.7;0.0;1.0;NAO_DEFINIDO;2018-10-19;3.4000000000000004
+The Night Comes for Us;Action;Indonesian, English, Mandarin, French;Movie;36;> 2 hrs;7.0;9.1;6.9;0.0;2.0;NAO_DEFINIDO;2018-10-19;7.666666666666667
+Father Figures;Comedy;English, Hawaiian;Movie;6;1-2 hour;5.5;1.7;2.2;0.0;1.0;1;2018-10-17;3.1333333333333333
+The Kindergarten Teacher;Drama;English;Movie;3;1-2 hour;6.7;9.0;7.5;2.0;12.0;NAO_DEFINIDO;2018-10-12;7.733333333333333
+Apostle;Drama;English, Chinese;Movie;36;> 2 hrs;6.3;7.8;6.2;1.0;8.0;NAO_DEFINIDO;2018-10-12;6.766666666666667
+Murder on the Orient Express;Crime;English, French, German, Turkish, Italian, Swedish;Movie;1;> 2 hrs;7.3;9.0;6.3;9.0;16.0;1;2018-10-12;7.533333333333334
+T2: Trainspotting;Drama;English, Bulgarian, Scots;Movie;1;1-2 hour;7.2;8.1;6.7;6.0;7.0;1;2018-10-11;7.333333333333333
+22 July;Crime;English, Norwegian;Movie;36;> 2 hrs;6.8;8.0;6.9;2.0;3.0;NAO_DEFINIDO;2018-10-10;7.233333333333333
+211;Action;English;Movie;2;1-2 hour;4.4;0.4;2.1;0.0;0.0;NAO_DEFINIDO;2018-10-10;2.3000000000000003
+A Letter to Momo;Animation;Japanese;Movie;1;> 2 hrs;7.3;8.1;6.5;3.0;7.0;1;2018-10-10;7.3
+Puerto Ricans in Paris;Comedy;English;Movie;2;1-2 hour;5.3;3.3;4.7;0.0;1.0;1;2018-10-07;4.433333333333334
+Private Life;Comedy;English;Movie;36;> 2 hrs;7.2;9.3;8.3;1.0;17.0;NAO_DEFINIDO;2018-10-05;8.266666666666667
+The Secret of My Success;Comedy;English;Movie;1;1-2 hour;6.5;5.7;3.6;1.0;0.0;2;2018-10-05;5.266666666666667
+Demolition;Action;English;Movie;4;1-2 hour;7.0;5.3;4.9;1.0;2.0;1;2018-10-03;5.733333333333333
+The Black Prince;Drama;English, Punjabi;Movie;18;> 2 hrs;6.6;0.7;2.6;3.609665427509294;0.0;NAO_DEFINIDO;2018-10-03;3.2999999999999994
+Operation Finale;Biography;English, Spanish, French, German;Movie;35;> 2 hrs;6.6;6.0;5.8;0.0;1.0;1;2018-10-03;6.133333333333333
+Stronger;Biography;English;Movie;5;1-2 hour;6.9;9.0;7.6;2.0;8.0;1;2018-10-02;7.833333333333333
+The Spy;Action;English, German;Movie;1;1-2 hour;6.6;5.2;5.9;3.609665427509294;6.350078492935636;1;2018-10-01;5.8999999999999995
+Tazza: The High Rollers;Comedy;Korean;Movie;1;> 2 hrs;7.2;8.5;7.7;3.609665427509294;17.0;NAO_DEFINIDO;2018-10-01;7.8
+Save the Green Planet!;Comedy;Korean;Movie;1;1-2 hour;7.3;9.0;7.0;3.609665427509294;2.0;1;2018-10-01;7.766666666666667
+Spider-Man: Homecoming;Action;English, Spanish;Movie;28;> 2 hrs;7.4;9.2;7.3;7.0;10.0;2;2018-10-01;7.966666666666666
+Roman Israel, Esq.;Crime;English, Spanish, Armenian;Movie;9;> 2 hrs;6.5;5.4;5.8;2.0;10.0;1;2018-10-01;5.900000000000001
+Secret Sunshine;Drama;Korean;Movie;1;> 2 hrs;7.5;9.4;8.4;3.609665427509294;15.0;NAO_DEFINIDO;2018-10-01;8.433333333333334
+Sleight;Drama;English;Movie;1;1-2 hour;5.9;7.8;6.2;0.0;3.0;1;2018-10-01;6.633333333333334
+Proud Mary;Action;English, Russian;Movie;10;1-2 hour;5.0;2.5;3.5;1.0;4.0;1;2018-10-01;3.6666666666666665
+Typhoon;Action;Korean, English, Thai, Russian, Mandarin;Movie;1;1-2 hour;5.8;2.2;4.6;2.0;10.0;1;2018-10-01;4.199999999999999
+Predators;Action;English, Spanish, Russian;Movie;7;1-2 hour;6.4;6.5;5.1;2.0;4.0;2;2018-10-01;6.0
+The Dark Tower;Action;English;Movie;21;1-2 hour;5.6;1.6;3.4;0.0;4.0;2;2018-10-01;3.533333333333333
+The Flu;Action;Korean, English, Filipino;Movie;1;> 2 hrs;6.6;3.6;4.0;0.0;1.0;NAO_DEFINIDO;2018-10-01;4.733333333333333
+Rough Night;Comedy;English, Spanish;Movie;8;1-2 hour;5.2;4.4;5.1;1.0;1.0;1;2018-10-01;4.9
+Godzilla: Resurgence;Action;Japanese, Japanese Sign Language, English, German;Movie;1;1-2 hour;6.8;8.6;6.7;3.609665427509294;10.0;1;2018-10-01;7.366666666666667
+Call Me by Your Name;Drama;English, Italian, French, German, Hebrew;Movie;23;> 2 hrs;7.9;9.4;9.3;3.609665427509294;6.350078492935636;1;2018-10-01;8.866666666666667
+Jumanji: Welcome to the Jungle;Action;English;Movie;21;1-2 hour;6.9;7.6;5.8;6.0;18.0;2;2018-10-01;6.766666666666666
+Insidious: The Last Key;Horror;English;Movie;7;1-2 hour;5.7;3.3;4.9;0.0;6.0;2;2018-10-01;4.633333333333334
+Blade Runner 2049;Action;English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish;Movie;19;> 2 hrs;8.0;8.8;8.1;3.609665427509294;6.350078492935636;2;2018-10-01;8.3
+Manchester by the Sea;Drama;English;Movie;3;> 2 hrs;7.8;9.6;9.6;3.609665427509294;6.350078492935636;1;2018-10-01;9.0
+Chappaquiddick;Biography;English;Movie;1;1-2 hour;6.4;8.1;6.7;0.0;4.0;1;2018-10-01;7.066666666666667
+Flatliners;Drama;English;Movie;14;1-2 hour;5.2;0.4;2.7;1.0;4.0;1;2018-10-01;2.766666666666667
+Baby Driver;Action;English, American Sign Language;Movie;20;1-2 hour;7.6;9.2;8.6;3.609665427509294;6.350078492935636;2;2018-10-01;8.466666666666667
+Thirteen;Drama;English, Spanish, Portuguese;Movie;2;1-2 hour;6.8;8.1;7.0;3.609665427509294;6.350078492935636;1;2018-10-01;7.3
+Damascus Cover;Thriller;Arabic, German, English;Movie;27;1-2 hour;5.2;1.4;3.6;10.0;0.0;NAO_DEFINIDO;2018-10-01;3.4000000000000004
+Jodhaa Akbar;Action;Hindi, Urdu;Movie;32;> 2 hrs;7.6;7.5;6.9;3.609665427509294;6.350078492935636;1;2018-09-30;7.333333333333333
+Delhi 6;Drama;Hindi, English;Movie;35;> 2 hrs;6.1;3.6;4.5;11.0;16.0;1;2018-09-30;4.733333333333333
+The German Doctor;Drama;Spanish, German, Hebrew;Movie;3;1-2 hour;6.7;7.5;6.2;3.609665427509294;6.350078492935636;1;2018-09-30;6.8
+Clandestine Childhood;Drama;Spanish, Portuguese;Movie;3;1-2 hour;7.0;4.0;5.5;3.609665427509294;18.0;1;2018-09-30;5.5
+Hold the Dark;Action;English;Movie;36;> 2 hrs;5.6;7.0;6.3;1.0;0.0;NAO_DEFINIDO;2018-09-28;6.3
+Sleepless;Action;English;Movie;3;1-2 hour;5.6;2.5;3.4;0.0;1.0;1;2018-09-27;3.8333333333333335
+Life;Horror;English, Japanese, Vietnamese;Movie;4;1-2 hour;6.6;6.7;5.4;0.0;7.0;1;2018-09-27;6.233333333333333
+Wonder;Drama;English;Movie;18;1-2 hour;8.0;8.5;6.6;4.0;6.350078492935636;2;2018-09-26;7.7
+The Hurricane Heist;Action;American Sign Language, English;Movie;4;1-2 hour;5.1;4.7;3.5;0.0;0.0;1;2018-09-26;4.433333333333334
+Nappily Ever After;Comedy;English;Movie;36;1-2 hour;6.4;7.1;6.3;1.0;5.0;NAO_DEFINIDO;2018-09-21;6.599999999999999
+Quincy;Documentary;English;Movie;36;> 2 hrs;7.6;8.2;6.0;8.0;8.0;NAO_DEFINIDO;2018-09-21;7.266666666666666
+Police Academy 3: Back in Training;Comedy;English;Movie;1;1-2 hour;5.4;4.0;3.3;1.0;0.0;1;2018-09-20;4.233333333333333
+The Endless;Drama;English;Movie;2;1-2 hour;6.5;9.2;8.0;5.0;8.0;1;2018-09-19;7.8999999999999995
+Split;Horror;English;Movie;31;1-2 hour;7.3;7.7;6.2;9.0;6.350078492935636;2;2018-09-17;7.066666666666666
+The Land of Steady Habits;Comedy;English;Movie;34;1-2 hour;6.2;8.3;7.1;0.0;0.0;NAO_DEFINIDO;2018-09-14;7.2
+Reversing Roe;Documentary;English;Movie;36;1-2 hour;7.4;8.8;7.0;0.0;0.0;NAO_DEFINIDO;2018-09-13;7.733333333333334
+A Prayer Before Dawn;Action;English, Thai;Movie;7;1-2 hour;6.9;9.2;7.6;1.0;6.0;1;2018-09-07;7.8999999999999995
+Sierra Burgess Is A Loser;Comedy;English;Movie;36;1-2 hour;5.8;6.1;6.0;0.0;2.0;NAO_DEFINIDO;2018-09-07;5.966666666666666
+Only the Brave;Action;English;Movie;13;> 2 hrs;7.6;8.7;7.2;0.0;3.0;1;2018-09-05;7.833333333333333
+ATM;Horror;English;Movie;16;> 2 hrs;4.7;1.2;3.4;0.0;0.0;1;2018-09-05;3.0999999999999996
+Winchester;Biography;English;Movie;6;1-2 hour;5.5;1.3;2.8;6.0;9.0;1;2018-09-01;3.2000000000000006
+The Hollars;Comedy;English;Movie;1;1-2 hour;6.6;4.7;5.3;1.0;3.0;1;2018-09-01;5.533333333333332
+Killing Gunther;Action;English, German, Spanish;Movie;1;1-2 hour;4.8;4.8;5.3;0.0;0.0;NAO_DEFINIDO;2018-09-01;4.966666666666666
+Acts of Violence;Action;English;Movie;6;1-2 hour;5.3;0.0;2.8;0.0;0.0;NAO_DEFINIDO;2018-09-01;2.6999999999999997
+Florence Foster Jenkins;Biography;English, German, Italian, Russian;Movie;7;1-2 hour;6.8;8.7;7.1;10.0;6.350078492935636;1;2018-09-01;7.533333333333332
+Mountain;Documentary;English;Movie;2;1-2 hour;7.2;8.7;8.2;3.0;6.0;1;2018-09-01;8.033333333333333
+Loving;Biography;English;Movie;4;> 2 hrs;7.0;8.8;7.9;3.609665427509294;6.350078492935636;1;2018-08-25;7.900000000000001
+Justice League;Action;English, Irish, Russian, Icelandic;Movie;5;1-2 hour;6.3;4.0;4.5;2.0;13.0;2;2018-08-24;4.933333333333334
+The Dead Pool;Action;English;Movie;1;1-2 hour;6.3;5.5;4.6;0.0;0.0;1;2018-08-23;5.466666666666666
+The Lodgers;Drama;English;Movie;1;1-2 hour;5.1;5.6;5.2;4.0;4.0;1;2018-08-23;5.3
+Jigsaw;Crime;English;Movie;13;1-2 hour;5.8;3.3;3.9;0.0;0.0;1;2018-08-19;4.333333333333333
+Peter Rabbit;Adventure;English;Movie;4;1-2 hour;6.6;6.3;5.1;4.0;16.0;2;2018-08-18;6.0
+Resident Evil: The Final Chapter;Action;English;Movie;2;1-2 hour;5.5;3.7;4.9;2.0;3.0;1;2018-08-18;4.7
+Den of Thieves;Action;English, Polynesian, Spanish;Movie;13;> 2 hrs;7.0;4.2;4.9;0.0;0.0;1;2018-08-17;5.366666666666667
+Big Fish and Begonia;Animation;Mandarin;Movie;14;1-2 hour;7.1;9.1;7.2;3.0;10.0;NAO_DEFINIDO;2018-08-17;7.8
+Hostiles;Drama;English, Cheyenne, French;Movie;4;> 2 hrs;7.2;7.1;6.5;4.0;7.0;1;2018-08-15;6.933333333333333
+For Here or to Go?;Comedy;English;Movie;18;1-2 hour;6.8;4.1;5.6;0.0;0.0;NAO_DEFINIDO;2018-08-15;5.5
+The Commuter;Action;English, Spanish;Movie;11;1-2 hour;6.3;5.6;5.6;0.0;1.0;1;2018-08-10;5.833333333333333
+The Guernsey Literary and Potato Peel Pie Society;Drama;English, German, French;Movie;20;> 2 hrs;7.4;8.0;6.5;0.0;0.0;NAO_DEFINIDO;2018-08-10;7.3
+Boo 2! A Madea Halloween;Comedy;English;Movie;11;1-2 hour;3.8;0.4;1.7;1.0;3.0;1;2018-08-10;1.9666666666666668
+The Moment;Thriller;English;Movie;1;1-2 hour;5.1;1.1;2.2;0.0;2.0;NAO_DEFINIDO;2019-12-25;2.8000000000000003
+Brothers Friend;Crime;English, Japanese, Italian, Spanish;Movie;1;1-2 hour;7.1;4.7;4.7;1.0;2.0;1;2019-12-07;5.5
+Fast Color;Drama;English;Movie;1;1-2 hour;6.1;8.1;6.4;1.0;7.0;1;2019-11-15;6.866666666666667
