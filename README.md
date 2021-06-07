@@ -4,6 +4,7 @@
 
 Este repositório tem os códigos e dataset utilizados no **workshop de introdução a análise de dados**, fornecido em parceria com o time técnico da **#IBM TLC-BR**. Neste repositório você encontrará todos os materias que serão utilizados durante as aulas. :woman_technologist: :technologist: 
 
+A base de Dados original foi baixada no site do [Kaggle](https://www.kaggle.com/ashishgup/netflix-rotten-tomatoes-metacritic-imdb).
 <a id="sumario"></a>
 # :books: Sumário
 1. [Requisitos para usar os códigos](#requisitos)
